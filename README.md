@@ -4,10 +4,8 @@ Using text in .iob format to train SpaCy for a model on ancient greek
 
 ## Running the Jupyter Notebook
 
-- Install the dependencies to run the notebook:
+The `spacy.ipynb` notebook was created using [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/). To run the notebook you need to:
 
-  `pip install -r requirements.txt`
+- Install the dependencies to run the notebook: `pip install -r requirements.txt`
 
-- Run Jupyter Lab:
-
-  `jupyter-lab`
+- Run Jupyter Lab: `jupyter-lab`
