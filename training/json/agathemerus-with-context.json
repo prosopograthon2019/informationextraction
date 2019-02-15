@@ -1,1 +1,1578 @@
-[{"sentence":"﻿Ἀγαθημέρου τοῦ Ὄρθωνος","entities":[{"start":-1,"end":10,"tag":"PERSON"}]},{"sentence":"γεωγραφίας ὑποτύπωσις","entities":[]},{"sentence":"Ἀναξίμανδρος ὁ Μιλήσιος ἀκουστὴς Θάλεω πρῶτος ἀπετόλμησε","entities":[{"start":33,"end":38,"tag":"PERSON"},{"start":15,"end":23,"tag":"LOC"},{"start":0,"end":12,"tag":"PERSON"}]},{"sentence":"τὴν οἰκουμένην ἐν πίνακι γράψαι, μεθ’ ὅν Ἑκαταῖος ὁ Μιλήσιος ἀνὴρ","entities":[{"start":41,"end":49,"tag":"PERSON"},{"start":4,"end":14,"tag":"LOC"},{"start":52,"end":60,"tag":"LOC"}]},{"sentence":"πολυπλανὴς διηκρίβωσεν ὥστε θαυμασθῆναι τὸ πρᾶγμα. Ἑλλάνικος","entities":[{"start":51,"end":60,"tag":"PERSON"}]},{"sentence":"γὰρ ὁ Λέσβιος ἀνὴρ πολυίστωρ ἀπλάστως παρέδωκε τὴν ἱστορίαν. εἶτα","entities":[{"start":6,"end":13,"tag":"LOC"}]},{"sentence":"Δαμάστης ὁ Κιτιεὺς τὰ πλεῖστα ἐκ τῶν Ἑκαταίου μεταγράψας","entities":[{"start":37,"end":45,"tag":"PERSON"},{"start":0,"end":8,"tag":"PERSON"},{"start":11,"end":18,"tag":"LOC"}]},{"sentence":"περίπλουν ἔγραψεν. ἑξῆς Δημόκριτος καὶ Εὔδοξος καὶ ἄλλοι τινὲς γῆς","entities":[{"start":39,"end":46,"tag":"PERSON"},{"start":24,"end":34,"tag":"PERSON"}]},{"sentence":"περιόδους καὶ περίπλους ἐπραγματεύσαντο. ","entities":[]},{"sentence":"Οἱ μὲν οὖν παλαιοὶ τὴν","entities":[]},{"sentence":"οἰκουμένην ἔγραφον στρογγύλην, μέσην δ’ ἡγεῖσθαι τὴν Ἑλλάδα καὶ","entities":[{"start":1,"end":11,"tag":"LOC"},{"start":54,"end":60,"tag":"LOC"}]},{"sentence":"ταύτης Δελφούς, τὸν ὀμφαλὸν γὰρ ἔχειν τῆς γῆς. πρῶτος δὲ Δημόκριτος","entities":[{"start":8,"end":15,"tag":"LOC"},{"start":58,"end":68,"tag":"PERSON"}]},{"sentence":"πολύπειρος ἀνὴρ συνεῖδεν ὅτι προμήκης ἐστὶν ἡ γῆ ἡμιόλιον τὸ μῆκος","entities":[]},{"sentence":"τοῦ πλάτους ἔχουσα. συνῄνεσε τούτῳ καὶ Δικαίαρχος ὁ περιπατητικός.","entities":[{"start":40,"end":66,"tag":"PERSON"},{"start":40,"end":50,"tag":"PERSON"}]},{"sentence":"Εὔδοξος δὲ τὸ μῆκος διπλοῦν τοῦ πλάτους, ὁ δὲ Ἐρατοσθένης πλεῖον","entities":[{"start":47,"end":58,"tag":"PERSON"},{"start":1,"end":8,"tag":"PERSON"}]},{"sentence":"τοῦ διπλοῦ, Κράτης δὲ ὡς ἡμικύκλιον, Ἵππαρχος δὲ τραπεζοειδῆ,","entities":[{"start":13,"end":19,"tag":"PERSON"},{"start":38,"end":46,"tag":"PERSON"}]},{"sentence":"ἄλλοι δὲ οὐροειδῆ, Ποσειδώνιος δ’ ὁ Στωϊκὸς σφενδονοειδῆ καὶ","entities":[{"start":20,"end":44,"tag":"PERSON"},{"start":20,"end":31,"tag":"PERSON"}]},{"sentence":"μεσόπλατον ἀπὸ νότου εἰς βορρᾶν, στενὴν πρὸς ἕω καὶ δύσιν, τὰ πρὸς","entities":[]},{"sentence":"εὖρον δ’ ὁμοίως πλατύτερα τὰ πρὸς τὴν Ἰνδικήν. ","entities":[{"start":39,"end":46,"tag":"LOC"}]},{"sentence":"Ὅροι ἠπείρων·","entities":[{"start":7,"end":14,"tag":"LOC"},{"start":2,"end":6,"tag":"LOC"}]},{"sentence":"Εὐρώπης μὲν καὶ Λιβύης αἴ Ἡρακλέους στῆλαι, Λιβύης δὲ καὶ Ἀσίας","entities":[{"start":46,"end":52,"tag":"LOC"},{"start":28,"end":44,"tag":"LOC"},{"start":60,"end":65,"tag":"LOC"},{"start":18,"end":24,"tag":"LOC"},{"start":28,"end":37,"tag":"PERSON"},{"start":2,"end":9,"tag":"LOC"}]},{"sentence":"ὁ Νεῖλος· οἱ δ’ ἰσθμὸν τὸν ἀπὸ Σερβωνίδος λίμνης καὶ Ἀραβίου","entities":[{"start":18,"end":50,"tag":"LOC"},{"start":33,"end":43,"tag":"LOC"},{"start":4,"end":10,"tag":"LOC"},{"start":55,"end":69,"tag":"LOC"}]},{"sentence":"κόλπου, Ἀσίας δὲ καὶ Εὐρώπης οἱ μὲν ἀρχαῖοι Φᾶσιν ποταμὸν καὶ τὸν","entities":[{"start":46,"end":51,"tag":"LOC"},{"start":10,"end":15,"tag":"LOC"},{"start":23,"end":30,"tag":"LOC"}]},{"sentence":"ἕως Κασπίας ἰσθμόν, οἱ δ’ ὕστερον νεώτεροι Μαιῶτιν λίμνην καὶ","entities":[{"start":45,"end":52,"tag":"LOC"},{"start":6,"end":13,"tag":"LOC"},{"start":45,"end":59,"tag":"LOC"}]},{"sentence":"Τάναϊν ποταμόν. ","entities":[{"start":2,"end":8,"tag":"LOC"},{"start":2,"end":16,"tag":"LOC"}]},{"sentence":"Ἐκλήθησαν δ’ ἤπειροι ἄπειροί τινες οὖσαι δι’","entities":[{"start":16,"end":23,"tag":"LOC"}]},{"sentence":"ἄγνοιαν· Ἀσία δ’ ἀπὸ τοῦ ἆσσον ἰέναι τοῖς ἀπ’ Εὐρώπης ἀπιοῦσι καὶ","entities":[{"start":12,"end":16,"tag":"LOC"},{"start":49,"end":56,"tag":"LOC"}]},{"sentence":"πεζῆ καὶ νήσοις στιχηδὸν κειμέναις· Εὔβοια Ἄνδρος Τῆνος Μύκονος","entities":[{"start":53,"end":58,"tag":"LOC"},{"start":46,"end":52,"tag":"LOC"},{"start":39,"end":45,"tag":"LOC"},{"start":59,"end":66,"tag":"LOC"}]},{"sentence":"Ἰκαρία Σάμος Μυκάλη. ἡ δὲ Εὐρώπη ἀπὸ τοῦ εὔρους ὠνομάσθη,","entities":[{"start":3,"end":9,"tag":"LOC"},{"start":10,"end":15,"tag":"LOC"},{"start":16,"end":22,"tag":"LOC"},{"start":29,"end":35,"tag":"LOC"}]},{"sentence":"Λιβύη δ’ ὑφ’ Ἑλλήνων ἦν ἄγνωστος πάνυ, ἀπὸ δὲ ἔθνους ἐπισήμου","entities":[{"start":16,"end":23,"tag":"PERSON"},{"start":3,"end":8,"tag":"LOC"}]},{"sentence":"Φοίνικες ὠνομάσθησαν πλέοντες, ὠκεανὸς δὲ διὰ τὸ ὠκέως ἀνύειν","entities":[{"start":3,"end":11,"tag":"LOC"},{"start":34,"end":41,"tag":"LOC"}]},{"sentence":"κύκλῳ τὴν γῆν. ","entities":[]},{"sentence":"Δικαίαρχος δ’ ὁρίζει τὴν γῆν οὐχ ὕδασιν ἀλλὰ τομῇ","entities":[{"start":4,"end":14,"tag":"PERSON"}]},{"sentence":"εὐθείᾳ εὐκράτῳ ἀπὸ Στηλῶν διὰ Σαρδοῦς Σικελίας Πελοποννήσου","entities":[{"start":34,"end":41,"tag":"LOC"},{"start":42,"end":50,"tag":"LOC"},{"start":23,"end":29,"tag":"LOC"},{"start":51,"end":63,"tag":"LOC"}]},{"sentence":"Ἰωνίας Καρίας Λυκίας Παμφυλίας Κιλικίας καὶ Ταύρου ἑξῆς ἕως","entities":[{"start":4,"end":10,"tag":"LOC"},{"start":11,"end":17,"tag":"LOC"},{"start":48,"end":54,"tag":"LOC"},{"start":35,"end":43,"tag":"LOC"},{"start":18,"end":24,"tag":"LOC"},{"start":25,"end":34,"tag":"LOC"}]},{"sentence":"Ἰμάου ὄρους· τῶν τοίνυν τόπων τὸ μὲν βόρειον τὸ δὲ νότιον ὀνομάζει.","entities":[{"start":4,"end":15,"tag":"LOC"},{"start":4,"end":9,"tag":"LOC"}]},{"sentence":"Ἄνεμοι δὲ πνέουσιν ἀπὸ μὲν ἰσημερινῆς ἀνατολῆς ἀπηλιώτης, ἀπὸ","entities":[]},{"sentence":"δὲ ἰσημερινῆς δύσεως ζέφυρος, ἀπό δὲ μεσημβρίας νότος, ἀπὸ δὲ ἄρκτου","entities":[]},{"sentence":"ἀπαρκτίας, ἀπὸ δὲ τροπῆς θερινῆς καικίας, ἑξῆς δὲ ἀπὸ ἰσημερινῆς","entities":[]},{"sentence":"ἀνατολῆς ἀπηλιώτης καὶ ἀπὸ χειμερινῆς εὖρος, δυσμικοὶ δὲ ἀπὸ μὲν","entities":[]},{"sentence":"δύσεως χειμερινῆς λίψ, καὶ ἑξῆς πάλιν ἀπὸ δύσεως ἰσημερινῆς","entities":[]},{"sentence":"ζέφυρος, ἀπὸ δὲ δύσεως θερινῆς ἀργέστης ἤτοι Ὀλυμπίας ὁ καὶ","entities":[]},{"sentence":"Ἰᾶπυξ, εἶτα νότος καὶ ἀπαρκτίας ἀντιπνέοντες ἀλλήλοις· γίνονται","entities":[]},{"sentence":"οὖν ὀκτώ. ","entities":[]},{"sentence":"Τιμοσθένης δὲ ὁ γράψας τοὺς περίπλους δώδεκά φησι","entities":[{"start":8,"end":18,"tag":"PERSON"}]},{"sentence":"προστιθεὶς μέσον ἀπαρκτίου καὶ καικίου βορέαν, εὔρου δὲ καὶ νότου","entities":[]},{"sentence":"φοίνικα τὸν καὶ εὐρόνοτον, μέσον δὲ νότου καὶ λιβὸς τὸν λευκόνοτον","entities":[]},{"sentence":"ἤτοι λιβόνοτον, μέσον δὲ ἀπαρκτίου καὶ ἀργέστου θρασκίαν ἤτοι","entities":[]},{"sentence":"κίρκιον ὑπὸ τῶν περιοίκων ὀνομαζόμενον. ἔθνη δὲ οἰκεῖν τὰ πέρατα","entities":[{"start":48,"end":52,"tag":"LOC"}]},{"sentence":"κατ’ ἀπηλιώτην Βακτριανούς, κατ’ εὖρον Ἰνδούς, κατὰ φοίνικα","entities":[{"start":47,"end":53,"tag":"LOC"},{"start":23,"end":34,"tag":"LOC"}]},{"sentence":"Ἐρυθρὰν θάλασσαν καὶ Αἰθιοπίαν, κατὰ νότον τὴν ὑπὲρ Αἴγυπτον","entities":[{"start":29,"end":38,"tag":"LOC"},{"start":8,"end":15,"tag":"LOC"},{"start":51,"end":78,"tag":"LOC"},{"start":8,"end":24,"tag":"LOC"}]},{"sentence":"Αἰθιοπίαν, κατὰ λευκόνοτον τοὺς ὑπὲρ Σύρτεις Γαράμαντας, κατὰ","entities":[{"start":35,"end":63,"tag":"LOC"},{"start":8,"end":17,"tag":"LOC"},{"start":45,"end":52,"tag":"LOC"},{"start":-1,"end":7,"tag":"LOC"}]},{"sentence":"λίβα Αἰθίοπας δυσμικοὺς ὑπὲρ Μαύρους, κατὰ ζέφυρον Στήλας","entities":[{"start":13,"end":43,"tag":"LOC"},{"start":37,"end":44,"tag":"LOC"}]},{"sentence":"καὶ ἀρχὰς Λιβύης καὶ Εὐρώπης, κατὰ ἀργέστην Ἰβηρίαν τὴν νῦν","entities":[{"start":18,"end":24,"tag":"LOC"},{"start":12,"end":24,"tag":"LOC"},{"start":29,"end":36,"tag":"LOC"},{"start":52,"end":76,"tag":"LOC"},{"start":52,"end":59,"tag":"LOC"},{"start":1,"end":7,"tag":"LOC"}]},{"sentence":"Ἱσπανίαν, κατὰ θρασκίαν Κελτοὺς καὶ τὰ ὅμορα, κατὰ ἀπαρκτίαν τοὺς ὑπὲρ Θράκην Σκύθας, κατὰ βορρᾶν Πόντον Μαιῶτιν","entities":[{"start":79,"end":85,"tag":"LOC"},{"start":69,"end":92,"tag":"LOC"},{"start":8,"end":16,"tag":"LOC"},{"start":44,"end":52,"tag":"LOC"},{"start":106,"end":112,"tag":"LOC"},{"start":32,"end":39,"tag":"LOC"}]},{"sentence":"Σαρμάτας, κατὰ καικίαν Κασπίαν θάλασσαν καὶ Σάκας.","entities":[{"start":0,"end":7,"tag":"LOC"},{"start":31,"end":47,"tag":"LOC"},{"start":8,"end":16,"tag":"LOC"},{"start":31,"end":38,"tag":"LOC"}]},{"sentence":"ἔστι δὲ ἡ μεγάλη Σύρτις σταδίων ˏε, ἡ δὲ μικρὰ σταδίων ˏαχ. τὸ δὲ","entities":[{"start":1,"end":6,"tag":"LOC"},{"start":19,"end":34,"tag":"LOC"},{"start":47,"end":57,"tag":"LOC"}]},{"sentence":"στόμα τοῦ Ἀδρίου ὃ καλοῦσί τινες Ἰόνιον πέλαγος ἔχει διάπλουν","entities":[{"start":21,"end":27,"tag":"LOC"},{"start":44,"end":50,"tag":"LOC"},{"start":11,"end":27,"tag":"LOC"},{"start":44,"end":58,"tag":"LOC"}]},{"sentence":"σταδίων ψ ἀπὸ ἄκρας Ἰαπυγίας ἐπὶ Κεραύνια ὄρη τῆς Ἠπείρου.","entities":[{"start":44,"end":52,"tag":"LOC"},{"start":44,"end":56,"tag":"LOC"},{"start":44,"end":68,"tag":"LOC"},{"start":25,"end":39,"tag":"LOC"}]},{"sentence":"διαδέχεται τὸ Αἰγαῖον πέλαγος Ἑλλήσποντος λήγων εἰς Ἄβυδον","entities":[{"start":27,"end":34,"tag":"LOC"},{"start":2,"end":9,"tag":"LOC"},{"start":43,"end":54,"tag":"LOC"},{"start":27,"end":42,"tag":"LOC"}]},{"sentence":"καὶ Σηστόν, εἶτα ἡ Προποντὶς λήγουσα εἰς Χαλκηδόνα καὶ Βυζάντιον, ἔνθα τὰ στενὰ ἀφ’ ὧν ὁ Πόντος ἄρχεται, εἶτα ἡ Μαιῶτις λίμνη.","entities":[{"start":102,"end":108,"tag":"LOC"},{"start":54,"end":63,"tag":"LOC"},{"start":6,"end":12,"tag":"LOC"},{"start":32,"end":41,"tag":"LOC"},{"start":68,"end":77,"tag":"LOC"},{"start":17,"end":23,"tag":"LOC"},{"start":84,"end":92,"tag":"LOC"}]},{"sentence":"πάλιν δὲ ἀπ’ ἀρχῆς Εὐρώπης καὶ Λιβύης Ἰβηρικὸν τὸ ἀπὸ Στηλῶν","entities":[{"start":51,"end":59,"tag":"LOC"},{"start":51,"end":73,"tag":"LOC"},{"start":32,"end":39,"tag":"LOC"},{"start":44,"end":50,"tag":"LOC"}]},{"sentence":"εἰς Πυρήνην τὸ ὄρος, Λιγυστικὸν δὲ τὸ ἕως τῶν τῆς Τυρρηνίας","entities":[{"start":34,"end":80,"tag":"LOC"},{"start":6,"end":12,"tag":"LOC"},{"start":34,"end":44,"tag":"LOC"},{"start":17,"end":24,"tag":"LOC"},{"start":17,"end":32,"tag":"LOC"},{"start":55,"end":80,"tag":"LOC"}]},{"sentence":"περάτων, Σαρδῶον δὲ τὸ ὑπὲρ Σαρδὼ νεῦον πρὸς Λιβύην κάτω, Τυρρηνικὸν δὲ τὸ μέχρι Σικελίας λῆγον ἀρχόμενον ἀπὸ τῶν Λιγυστικῆς","entities":[{"start":22,"end":46,"tag":"LOC"},{"start":58,"end":69,"tag":"LOC"},{"start":41,"end":46,"tag":"LOC"},{"start":3,"end":12,"tag":"LOC"},{"start":94,"end":102,"tag":"LOC"},{"start":22,"end":29,"tag":"LOC"},{"start":71,"end":81,"tag":"LOC"}]},{"sentence":"ἄκρων, εἶτα Λιβυκόν, εἶτα Κρητικὸν καὶ Σικελικὸν καὶ Ἰόνιον καὶ","entities":[{"start":2,"end":12,"tag":"LOC"},{"start":39,"end":47,"tag":"LOC"},{"start":25,"end":32,"tag":"LOC"},{"start":52,"end":61,"tag":"LOC"}]},{"sentence":"Ἀδρίαν καὶ τὸν ἀνακεχυμένον ἐκ τοῦ Σικελικοῦ πελάγους, ὃν","entities":[{"start":48,"end":66,"tag":"LOC"},{"start":2,"end":8,"tag":"LOC"},{"start":13,"end":19,"tag":"LOC"}]},{"sentence":"καλοῦσι Κορινθιακὸν κόλπον ἤτοι Ἀλκυονίδα θάλασσαν. τὸ δὲ","entities":[{"start":21,"end":63,"tag":"LOC"},{"start":45,"end":54,"tag":"LOC"},{"start":21,"end":39,"tag":"LOC"},{"start":45,"end":63,"tag":"LOC"}]},{"sentence":"Σουνίῳ καὶ Σκυλλαίῳ περιεχόμενον πέλαγος Σαρωνικόν, εἶτα Μυρτῶον καὶ Ἰκάριον ἐν ᾧ αἱ Κυκλάδες, εἶτα Καρπάθιον καὶ Παμφύλιον","entities":[{"start":13,"end":19,"tag":"LOC"},{"start":70,"end":77,"tag":"LOC"},{"start":98,"end":106,"tag":"LOC"},{"start":46,"end":63,"tag":"LOC"},{"start":54,"end":63,"tag":"LOC"},{"start":113,"end":122,"tag":"LOC"},{"start":82,"end":89,"tag":"LOC"},{"start":24,"end":32,"tag":"LOC"}]},{"sentence":"καὶ Αἰγύπτιον. ὑπὲρ δὲ τὸ Ἰκάριον ἑξῆς ἀναχεῖται τὸ Αἰγαῖον.","entities":[{"start":3,"end":12,"tag":"LOC"},{"start":17,"end":26,"tag":"LOC"},{"start":39,"end":46,"tag":"LOC"}]},{"sentence":"Ἔστι δὲ ὁ τῆς Εὐρώπης παράπλους ἀπὸ Τανάιδος ποταμοῦ","entities":[{"start":4,"end":11,"tag":"LOC"},{"start":29,"end":36,"tag":"LOC"}]},{"sentence":"ἐκβολῶν ἕως Ἡρακλείων στηλῶν σταδίων μυριάδων ἓξ καὶ ˏθψθ,","entities":[{"start":27,"end":43,"tag":"LOC"},{"start":37,"end":43,"tag":"LOC"},{"start":27,"end":36,"tag":"PERSON"}]},{"sentence":"τῆς δὲ Λιβύης ἀπὸ Τιγγὸς ἕως στόματος Κανωβικοῦ σταδίων μυριάδων","entities":[{"start":44,"end":62,"tag":"LOC"},{"start":22,"end":28,"tag":"LOC"},{"start":33,"end":39,"tag":"LOC"}]},{"sentence":"δύο καὶ ˏθσνβ, τῆς δ’ Ἀσίας ἀπὸ Κανώβου ἕως Τανάιδος ποταμοῦ μετά","entities":[{"start":59,"end":67,"tag":"LOC"},{"start":47,"end":54,"tag":"LOC"},{"start":37,"end":42,"tag":"LOC"},{"start":59,"end":75,"tag":"LOC"}]},{"sentence":"τῶν κόλπων ὁ παράπλους σταδίων μυριάδων δ καὶ ρια. ὁμοῦ παράλιος","entities":[{"start":15,"end":25,"tag":"LOC"}]},{"sentence":"σῦν κόλποις τῆς καθ’ ἡμᾶς οἰκουμένης σταδίων μυριάδων ιγ καὶ, ˏθοβ","entities":[{"start":41,"end":51,"tag":"LOC"},{"start":19,"end":26,"tag":"LOC"}]},{"sentence":"συμμετρουμένης τῆς Μαιώτιδος λίμνης, ἧς περίμετρος  σταδίων ˏθ,","entities":[{"start":34,"end":50,"tag":"LOC"},{"start":34,"end":43,"tag":"LOC"}]},{"sentence":"τὸ δὲ στόμα ὁ Κιμμέριος Βόσπορος σταδίων κ. ","entities":[{"start":15,"end":47,"tag":"LOC"},{"start":29,"end":47,"tag":"LOC"}]},{"sentence":"ὁ δὲ Πόντος","entities":[]},{"sentence":"σταδίων ˏγτν. ὁ δὲ Θράκιος Βόσπορος τὰ στενὰ ὅπῃ Δαρεῖος ἔζευξεν","entities":[{"start":53,"end":61,"tag":"LOC"},{"start":10,"end":16,"tag":"LOC"},{"start":36,"end":52,"tag":"LOC"}]},{"sentence":"ἐπὶ Σκύθας τὴν σχεδίαν σταδίων ἕξ. ","entities":[{"start":21,"end":27,"tag":"LOC"},{"start":1,"end":8,"tag":"PERSON"}]},{"sentence":"Ἡ δὲ Περσικὴ θάλασσα","entities":[]},{"sentence":"κυκλοτερὴς οὖσα συνάγουσα τὸ στόμα ἄκρῳ Καρμανίας καὶ Ἀραβίας","entities":[{"start":2,"end":9,"tag":"LOC"},{"start":2,"end":17,"tag":"LOC"},{"start":58,"end":67,"tag":"LOC"}]},{"sentence":"περίμετρον ἔχει μυριάδων δύο σταδίων. ἔστι δὲ τὸ μεταξὺ στόμα","entities":[{"start":10,"end":17,"tag":"LOC"}]},{"sentence":"Ἀραβίας καὶ Καρμανίας σταδίων υ. ","entities":[{"start":18,"end":25,"tag":"LOC"},{"start":30,"end":39,"tag":"LOC"},{"start":2,"end":39,"tag":"LOC"}]},{"sentence":"Ἡ δὲ Ὑρκανία ἤτοι","entities":[]},{"sentence":"Κασπία θάλασσα μηνοειδὴς οὖσα, κατὰ δέ τινας καὶ προμήκης, ἐστὶ","entities":[{"start":6,"end":13,"tag":"LOC"},{"start":19,"end":25,"tag":"LOC"},{"start":19,"end":33,"tag":"LOC"},{"start":6,"end":33,"tag":"LOC"}]},{"sentence":"σταδίων δισμυρίων, τοῦ δὲ στόματος ἔχει τὸ δίαρμα","entities":[]},{"sentence":"σταδίους  ˏα. ","entities":[]},{"sentence":"Ὁ δὲ Ἀράβιος κόλπος στενὸς ὢν καὶ προμήκης","entities":[{"start":25,"end":39,"tag":"LOC"}]},{"sentence":"ἄρχεται ἀπὸ Ἡρώων πολίτου μυχοῦ παρὰ τὴν Τρωγλοδυτικὴν ἕως τῆς","entities":[{"start":32,"end":45,"tag":"LOC"},{"start":32,"end":51,"tag":"LOC"}]},{"sentence":"Πτολεμαΐδος τῆς ἐπὶ θήρας σταδίων ˏθ τὸ μῆκος, τὰ δὲ  κατὰ","entities":[{"start":20,"end":45,"tag":"LOC"}]},{"sentence":"Δειρὴν στενὰ σταδίων ξ, ἔνθεν ἑξῆς πλοῦς σταδίων ˏϛφ, τὸ δὲ λοιπὸν","entities":[{"start":8,"end":32,"tag":"LOC"},{"start":20,"end":26,"tag":"LOC"}]},{"sentence":"οὐ πλεῖται παρὰ τὴν Ἐρυθρὰν θάλασσαν ἕως ὠκεανοῦ σταδίων ˏε. τὸ","entities":[{"start":61,"end":68,"tag":"LOC"},{"start":40,"end":47,"tag":"LOC"},{"start":40,"end":56,"tag":"LOC"}]},{"sentence":"δὲ παρὰ τὴν Ἀραβίαν πλευρὰν ἀπὸ Αἰλανίτου μυχοῦ  σταδίων μυρίων","entities":[{"start":28,"end":47,"tag":"LOC"},{"start":52,"end":67,"tag":"LOC"},{"start":32,"end":39,"tag":"LOC"}]},{"sentence":"ˏδ. αὐτὴ δὲ ἡ Ἀραβία εἰς τὴν Ἐρυθρὰν καθήκει καὶ μεμήκυται ἐπὶ","entities":[{"start":49,"end":56,"tag":"LOC"},{"start":34,"end":40,"tag":"LOC"}]},{"sentence":"σταδίων μυρίων δισχιλίων.","entities":[]},{"sentence":"Μῆκος δὲ τῆς οἰκουμένης ἀπὸ Γάγγου εἰς τὰ Γάδειρα σταδίων","entities":[{"start":35,"end":45,"tag":"LOC"},{"start":50,"end":56,"tag":"LOC"}]},{"sentence":" μυριάδων ϛ καὶ ˏηφμε οὕτως· ἀπὸ μὲν Γάγγου ποταμοῦ ἕως","entities":[{"start":6,"end":13,"tag":"LOC"}]},{"sentence":"Μυριάνδρου τῆς ἐν Ἰσσικῷ κόλπῳ σταδίων μυριάδων τεσσάρων καὶ","entities":[{"start":3,"end":9,"tag":"LOC"},{"start":40,"end":52,"tag":"LOC"},{"start":22,"end":52,"tag":"LOC"},{"start":3,"end":17,"tag":"LOC"},{"start":22,"end":32,"tag":"LOC"}]},{"sentence":"v χιλίων ψκε οὕτως, ἀπὸ Γάγγου  ἐπὶ ἐκβολὰς Ἰνδοῦ ποταμοῦ σταδίων","entities":[{"start":46,"end":52,"tag":"LOC"},{"start":58,"end":79,"tag":"LOC"}]},{"sentence":"μυρίων ˏϛ, ἀπὸ Ἰνδοῦ ἕως Κασπίων πυλῶν μυρίων πεντακισχιλίων","entities":[{"start":37,"end":42,"tag":"LOC"},{"start":47,"end":60,"tag":"LOC"},{"start":0,"end":13,"tag":"LOC"},{"start":0,"end":5,"tag":"LOC"}]},{"sentence":"τριακοσίων, ἐπὶ τὸν Εὐφράτην σταδίων μυρίων ν,  εἰς Μυρίανδρον","entities":[{"start":42,"end":50,"tag":"LOC"}]},{"sentence":"σταδίων τοε, ","entities":[{"start":11,"end":21,"tag":"LOC"}]},{"sentence":"ἀπὸ δὲ Μυριάνδρου ἐπὶ Γάδειρα σταδίων δισμυρίων","entities":[{"start":45,"end":52,"tag":"LOC"},{"start":30,"end":40,"tag":"LOC"}]},{"sentence":"ˏϛωκ οὕτως· ἀπὸ Μυριάνδρου ἐπὶ Κλεῖδας Κύπρου σταδίων  χιλίων","entities":[{"start":54,"end":68,"tag":"LOC"},{"start":39,"end":49,"tag":"LOC"}]},{"sentence":"τετρακοσίων, ἐπὶ Ἀκάμαντα τὸ ἀκρωτήριον στάδιοι ˏατ, ἐπὶ δὲ","entities":[{"start":40,"end":62,"tag":"LOC"},{"start":0,"end":6,"tag":"LOC"},{"start":40,"end":48,"tag":"LOC"}]},{"sentence":"Χελιδονίας διὰ Παμφυλίου πελάγους στάδια ˏα↑, εἰς Πάταρα στάδια","entities":[{"start":38,"end":47,"tag":"LOC"},{"start":38,"end":56,"tag":"LOC"},{"start":23,"end":33,"tag":"LOC"}]},{"sentence":"ω,  εἰς ῾Ρόδον στάδια ψ, εἰς Ἀστυπάλαιαν διὰ Καρπαθίου στάδια","entities":[{"start":32,"end":37,"tag":"LOC"},{"start":9,"end":15,"tag":"LOC"},{"start":52,"end":63,"tag":"LOC"}]},{"sentence":"ρμ, ἐπὶ Ταίναρον στάδια ˏα↑ν, ἐπὶ Πάχυνον Σικελίας στάδια ˏδ, ἐπὶ","entities":[{"start":6,"end":15,"tag":"LOC"},{"start":57,"end":73,"tag":"LOC"},{"start":57,"end":64,"tag":"LOC"},{"start":31,"end":39,"tag":"LOC"}]},{"sentence":"Λιλύβαιον  διὰ Λιβυκοῦ πελάγους στάδια ˏαφκ, ἐπὶ δὲ Κάραλιν","entities":[{"start":-1,"end":7,"tag":"LOC"},{"start":38,"end":54,"tag":"LOC"},{"start":23,"end":32,"tag":"LOC"},{"start":38,"end":45,"tag":"LOC"}]},{"sentence":"Σαρδοῦς διὰ Τυρσηνικοῦ πελάγους στάδια ˏαω, ἐπὶ Γάδειρα ὑπερπλεύσαντι Γυμνησίας  νήσους στάδια μύρια, ἀπὸ Γαδείρων δὲ διὰ Ἱεροῦ","entities":[{"start":35,"end":54,"tag":"LOC"},{"start":93,"end":102,"tag":"LOC"},{"start":93,"end":110,"tag":"LOC"},{"start":23,"end":30,"tag":"LOC"},{"start":15,"end":22,"tag":"LOC"},{"start":35,"end":45,"tag":"LOC"},{"start":71,"end":78,"tag":"LOC"}]},{"sentence":"ἀκρωτηρίου καὶ Ἀρτάβρων λιμένος στάδιοι ˏζ↑λβ· ὁμοῦ γίνονται","entities":[{"start":1,"end":9,"tag":"LOC"},{"start":38,"end":54,"tag":"LOC"},{"start":17,"end":33,"tag":"LOC"}]},{"sentence":"μυριάδες ἑπτὰ καὶ ˏϛυοζ. ","entities":[]},{"sentence":"καὶ ἄλλως· ἀπὸ Γάγγου ἕως Εὐφράτου","entities":[]},{"sentence":"ποταμοῦ μυριάδων τεσσάρων καὶ χιλίων τν, ἀπὸ Εὐφράτου εἰς Μάζακα","entities":[{"start":15,"end":31,"tag":"LOC"},{"start":15,"end":23,"tag":"LOC"},{"start":4,"end":10,"tag":"LOC"}]},{"sentence":"Καππαδοκῶν στάδια ˏα↑ν, ἀπὸ δὲ  Μαζάκων διὰ Φρυγίας τῆς παρορίου","entities":[{"start":4,"end":12,"tag":"LOC"},{"start":17,"end":34,"tag":"LOC"},{"start":56,"end":63,"tag":"LOC"}]},{"sentence":"καὶ μεγάλης καὶ Καρίας ἕως Ἐφέσου στάδιοι ˏζ↑ϟ· ὁμοῦ ἀπὸ Γάγγου","entities":[{"start":28,"end":35,"tag":"LOC"},{"start":51,"end":57,"tag":"LOC"},{"start":3,"end":23,"tag":"LOC"},{"start":40,"end":46,"tag":"LOC"}]},{"sentence":"εἰς Ἔφεσον σταδίων μυριάδων τεσσάρων καὶ ˏζσϟ. ἀπὸ δὲ","entities":[{"start":17,"end":23,"tag":"LOC"},{"start":28,"end":34,"tag":"LOC"}]},{"sentence":"Ἐφέσου εἰς Δῆλον διὰ τοῦ Αἰγαίου στάδια ˏαχ, ἐπὶ Ἰσθμὸν στάδια ˏαψ,","entities":[{"start":49,"end":56,"tag":"LOC"},{"start":35,"end":40,"tag":"LOC"},{"start":24,"end":30,"tag":"LOC"}]},{"sentence":"ἀπὸ Ἰσθμοῦ διὰ Κορινθίου κόλπου εἰς Πάτρας στάδια ψκ, ἐπὶ Λευκάδα","entities":[{"start":39,"end":48,"tag":"LOC"},{"start":39,"end":55,"tag":"LOC"},{"start":28,"end":34,"tag":"LOC"},{"start":5,"end":11,"tag":"LOC"},{"start":60,"end":66,"tag":"LOC"}]},{"sentence":"στάδια ψ, ἐπὶ Κόρκυραν στάδια ψ, ἐπ’ Ἀκροκεραύνια ὄρη στάδια","entities":[{"start":16,"end":23,"tag":"LOC"},{"start":38,"end":46,"tag":"LOC"}]},{"sentence":"χξ, ἐπὶ Βρεντέσιον στάδια ψ, ἀπὸ Βρεντεσίου πεζῇ ὁδεύοντι ἕως","entities":[{"start":0,"end":16,"tag":"LOC"},{"start":57,"end":67,"tag":"LOC"},{"start":0,"end":12,"tag":"LOC"},{"start":32,"end":42,"tag":"LOC"}]},{"sentence":" ῾Ρώμης στάδια ˏβωπ, ἀπὸ Ῥώμης ἐπὶ τὰς ῎Αλπεις ἕως Σκιγγομάγου","entities":[{"start":26,"end":31,"tag":"LOC"},{"start":49,"end":54,"tag":"LOC"}]},{"sentence":"κώμης ὑπὸ ταῖς Ἄλπεσιν οὔσης στάδια ˏδρνβ, εἶτα διὰ Κελτικῆς ","entities":[{"start":12,"end":23,"tag":"LOC"},{"start":39,"end":46,"tag":"LOC"},{"start":12,"end":29,"tag":"LOC"},{"start":1,"end":7,"tag":"LOC"}]},{"sentence":"ἕως πόλεως ’Ιλλυγύρεως ὑπό τῇ Πυρήνῃ οὔσης στάδια ˏγψμδ, εἶτα","entities":[{"start":36,"end":46,"tag":"LOC"},{"start":54,"end":60,"tag":"LOC"},{"start":28,"end":46,"tag":"LOC"},{"start":14,"end":22,"tag":"LOC"}]},{"sentence":"διὰ Ἰβηρίας ἕως Γαδείρων στάδια ˏϛχνδ, καὶ ὁ διάπλους ἐπὶ Γάδειρα","entities":[{"start":28,"end":35,"tag":"LOC"},{"start":40,"end":48,"tag":"LOC"}]},{"sentence":"διὰ τῶν πανδοκίων στάδια ξ· ὁμοῦ ἀπὸ Γάγγου εἰς Γάδειρα  σταδίων","entities":[{"start":16,"end":23,"tag":"LOC"},{"start":28,"end":41,"tag":"LOC"},{"start":61,"end":67,"tag":"LOC"}]},{"sentence":"μυριάδες ἑπτὰ καὶ ˏαφξ. ","entities":[{"start":7,"end":14,"tag":"LOC"}]},{"sentence":"Πλάτος δὲ τῆς οἰκουμένης ἀπὸ τῆς","entities":[]},{"sentence":"Αἰθιοπικῆς θαλάσσης ἐπὶ Μερόην σταδίων ˏε, ἀπὸ Μερόης εἰς Ἀλεξάνδρειαν  σταδίων μυρίων, ἀπὸ δὲ Ἀλεξανδρείας ἐπὶ Τάναϊν","entities":[{"start":72,"end":78,"tag":"LOC"},{"start":83,"end":95,"tag":"LOC"},{"start":6,"end":16,"tag":"LOC"},{"start":25,"end":44,"tag":"LOC"},{"start":25,"end":35,"tag":"LOC"},{"start":49,"end":55,"tag":"LOC"}]},{"sentence":"μυρίων ˏα νϛ (τὰ γὰρ ἄνω τῶν ἐκβολῶν τοῦ Τανάιδος ἀγνοεῖται εἰς","entities":[{"start":1,"end":13,"tag":"LOC"},{"start":18,"end":24,"tag":"LOC"}]},{"sentence":"βορρᾶν) οὕτως· ἀπὸ Ἀλεξανδρείας  εἰς Λίνδον Ῥόδου στάδια ˏδφ,","entities":[{"start":2,"end":10,"tag":"LOC"},{"start":44,"end":56,"tag":"LOC"}]},{"sentence":"ἐπὶ τὸ Θοάντιον δεξιὸν παραπλέοντι ῾Ρόδον στάδια υ, ἐπὶ Τῆλον","entities":[{"start":0,"end":6,"tag":"LOC"},{"start":0,"end":12,"tag":"LOC"},{"start":7,"end":12,"tag":"LOC"},{"start":32,"end":40,"tag":"LOC"}]},{"sentence":"στάδια ρξ, ἐπὶ Λακτῆρα τῆς Κῴας στάδια ρκ,  ἐπὶ Δρέπανον Κῴας","entities":[{"start":52,"end":56,"tag":"LOC"},{"start":40,"end":56,"tag":"LOC"},{"start":40,"end":47,"tag":"LOC"},{"start":19,"end":24,"tag":"LOC"}]},{"sentence":"στάδια ρ, ἐπὶ Ἀρκίτιν νῆσον στάδια σλ, ἐπὶ Κορσίας ρ, ἐπὶ Σαμίων","entities":[{"start":39,"end":52,"tag":"LOC"},{"start":20,"end":24,"tag":"LOC"},{"start":11,"end":24,"tag":"LOC"},{"start":11,"end":19,"tag":"LOC"},{"start":39,"end":46,"tag":"LOC"}]},{"sentence":"Ἄμπελον στάδια λ, ἐπὶ τὸ Αἰγαῖον Ἄργεννον  διὰ τοῦ Αἰγαίου","entities":[{"start":50,"end":57,"tag":"LOC"},{"start":3,"end":10,"tag":"LOC"},{"start":18,"end":24,"tag":"LOC"},{"start":18,"end":32,"tag":"LOC"},{"start":25,"end":32,"tag":"LOC"}]},{"sentence":"στάδια φ, ἐπὶ τὸ Ἐρυθραῖον Κορυναῖον στάδια σο, ἐπὶ Φλίον ἄκρον","entities":[{"start":-1,"end":7,"tag":"LOC"},{"start":17,"end":24,"tag":"LOC"},{"start":42,"end":61,"tag":"LOC"}]},{"sentence":"Χίου στάδια ν, ἐπὶ Μελανέα ἄκρον Λέσβου στάδια υν,  ἐπὶ Σίγριον","entities":[{"start":58,"end":64,"tag":"LOC"},{"start":25,"end":29,"tag":"LOC"},{"start":44,"end":51,"tag":"LOC"},{"start":13,"end":18,"tag":"LOC"},{"start":13,"end":29,"tag":"LOC"},{"start":13,"end":24,"tag":"LOC"},{"start":44,"end":64,"tag":"LOC"}]},{"sentence":"Λέσβου στάδια φ, εἰς Τένεδον νῆσον στάδια υν, εἰς Σίγειον στάδια ρ,","entities":[{"start":25,"end":31,"tag":"LOC"},{"start":17,"end":24,"tag":"LOC"},{"start":46,"end":53,"tag":"LOC"},{"start":46,"end":59,"tag":"LOC"},{"start":17,"end":31,"tag":"LOC"}]},{"sentence":"ἐπὶ στόμα Πόντου στάδια ˏβφ, ἐπὶ Κάραμβιν στάδια ˏβω, ἐπὶ στόμα","entities":[{"start":29,"end":41,"tag":"LOC"},{"start":35,"end":41,"tag":"LOC"},{"start":7,"end":14,"tag":"LOC"},{"start":58,"end":66,"tag":"LOC"}]},{"sentence":"Μαιώτιδος στάδια ˏβφ, ἐπὶ Τάναϊν στάδια ˏβσ. ","entities":[{"start":19,"end":34,"tag":"LOC"},{"start":25,"end":34,"tag":"LOC"}]},{"sentence":"ἄλλως, ἀπὸ πόλεως","entities":[{"start":5,"end":11,"tag":"LOC"}]},{"sentence":"εἰς πόλιν, ἀπὸ Ἀλεξανδρείας εἰς Ῥόδον στάδια ˏδχο, εἰς Κνίδον","entities":[{"start":19,"end":25,"tag":"LOC"},{"start":41,"end":53,"tag":"LOC"},{"start":58,"end":63,"tag":"LOC"},{"start":30,"end":35,"tag":"LOC"}]},{"sentence":"στάδια ψ, εἰς Κῶ στάδια σ, εἰς Σάμον στάδια ω, εἰς Χίον στάδια ψν, εἰς","entities":[{"start":57,"end":62,"tag":"LOC"},{"start":40,"end":42,"tag":"LOC"},{"start":19,"end":25,"tag":"LOC"}]},{"sentence":"Μιτυλήνην στάδια φκ, εἰς Τένεδον  ↑ν, εἰς Σίγειον ρ, ἐπὶ τὸ στόμα","entities":[{"start":6,"end":10,"tag":"LOC"},{"start":26,"end":35,"tag":"LOC"},{"start":51,"end":58,"tag":"LOC"}]},{"sentence":"Πόντου ˏβφ, εἰς Κάραμβιν ˏβω, εἰς στόμα Μαιώτιδος ˏβφ, ἐπὶ Τάναϊν","entities":[{"start":20,"end":32,"tag":"LOC"},{"start":60,"end":75,"tag":"LOC"},{"start":26,"end":32,"tag":"LOC"},{"start":42,"end":50,"tag":"LOC"},{"start":2,"end":9,"tag":"LOC"}]},{"sentence":"ποταμὸν ˏβσ· ὁμοῦ ἀπὸ  Ἀλεξανδρείας ἕως Τανάιδος σταδίων μυρίων","entities":[{"start":49,"end":61,"tag":"LOC"},{"start":19,"end":33,"tag":"LOC"},{"start":19,"end":25,"tag":"LOC"},{"start":0,"end":9,"tag":"LOC"}]},{"sentence":"ˏηχϟ.","entities":[{"start":2,"end":10,"tag":"LOC"}]},{"sentence":"Λοιπὸν δὲ ἐροῦμεν τῶν καθ’ ἡμᾶς νήσων τὰς περιμέτρους","entities":[]},{"sentence":"λαβόντες παρὰ Ἀρτεμιδώρου  καὶ Μενίππου καὶ ἑτέρων ἀξιοπίστων.","entities":[{"start":59,"end":67,"tag":"PERSON"},{"start":42,"end":53,"tag":"PERSON"}]},{"sentence":"Γάδειρα μῆκος σταδίων ρκ, πλάτος σταδίων ιϛ. ὁ δὲ καθ’ ῾Ηρακλείους","entities":[{"start":28,"end":35,"tag":"LOC"}]},{"sentence":"στήλας πορθμὸς στενότατός ἐστι σταδίων  π. ἐν δὲ τῷ Ἰβηρικῷ","entities":[{"start":28,"end":34,"tag":"LOC"},{"start":16,"end":34,"tag":"LOC"}]},{"sentence":"πελάγει νῆσοι Πιτυοῦσσαι ἡ μείζων καὶ οἰκουμένη σταδίων τ μῆκος,","entities":[{"start":20,"end":35,"tag":"LOC"},{"start":53,"end":61,"tag":"LOC"},{"start":42,"end":52,"tag":"LOC"},{"start":20,"end":27,"tag":"LOC"},{"start":36,"end":52,"tag":"LOC"}]},{"sentence":"ἡ δὲ ἐλάττων σταδίων ρ. τῶν δὲ Γυμνασίων ἃς Καρχηδόνιοι Βαλιαρίας","entities":[{"start":59,"end":102,"tag":"LOC"},{"start":59,"end":68,"tag":"LOC"},{"start":28,"end":40,"tag":"LOC"}]},{"sentence":"καλοῦσιν (οἱ γὰρ σφενδονηταὶ οὕτω καλοῦνται οἱ Βαλιαρεῖς) ἡ μείζων","entities":[{"start":18,"end":27,"tag":"LOC"},{"start":6,"end":17,"tag":"LOC"}]},{"sentence":"μῆκος σταδίων ˏασ, πλάτος σταδίων υ, ἡ ἐλάττων σταδίων  τ. αἱ δὲ","entities":[{"start":8,"end":17,"tag":"LOC"},{"start":19,"end":27,"tag":"LOC"}]},{"sentence":"Στοιχάδες αἱ φερώνυμοι ἑξῆς ἐπ’ εὐθείας κεῖνται πρὸ τῶν Μασσαλιακῶν","entities":[{"start":0,"end":9,"tag":"LOC"},{"start":28,"end":37,"tag":"LOC"}]},{"sentence":"πόλεων αἱ μὲν μείζους τρεῖς δύο δὲ μικραὶ αὐτῆς ἐγγὺς  Μασσαλίας.","entities":[{"start":56,"end":69,"tag":"LOC"},{"start":16,"end":34,"tag":"LOC"},{"start":35,"end":55,"tag":"LOC"},{"start":16,"end":27,"tag":"LOC"}]},{"sentence":"ἡ δὲ Σαρδὼ ἔχει σχῆμα ὡς ποδὸς ἴχνος μεσόκοιλος τὸ μῆκος ˏβσ, ","entities":[{"start":17,"end":26,"tag":"LOC"},{"start":33,"end":38,"tag":"LOC"}]},{"sentence":"Κύρνος ἐγγὺς Σαρδοῦς πολλῷ δὲ ἀγενεστέρα ἔλαττον ἢ ἥμισυ τοῦ","entities":[{"start":28,"end":34,"tag":"LOC"},{"start":41,"end":48,"tag":"LOC"}]},{"sentence":"Σαρδοῦς μήκους ἔχει· ἀφετήριον δ’ εἰς Σαρδὼ καὶ Κύρνον Ποπουλώνιον τῆς Τυρσηνίας, τὸ δὲ δίαρμα σταδίων ˏασ. τῆς Σιλεκίας κατὰ","entities":[{"start":83,"end":108,"tag":"LOC"},{"start":76,"end":82,"tag":"LOC"},{"start":83,"end":94,"tag":"LOC"},{"start":99,"end":108,"tag":"LOC"},{"start":28,"end":35,"tag":"LOC"},{"start":66,"end":71,"tag":"LOC"}]},{"sentence":"Τιμοσθένην  περίμετρος σταδίων ˏδψμ, σχῆμα τρίγωνον σκαληνοειδές,","entities":[{"start":14,"end":22,"tag":"LOC"}]},{"sentence":"δίαρμα δ’ ἔχει ἀπὸ Πελώρου ἄκρου εἰς Ἰταλίαν σταδίων ιβ πορθμῷ·","entities":[{"start":47,"end":60,"tag":"LOC"},{"start":47,"end":54,"tag":"LOC"}]},{"sentence":"πλευρὰ νήσου ἀπὸ Πελώρου εἰς Πάχυνον στάδια ˏατξ, ἀπὸ Παχύνου","entities":[{"start":45,"end":52,"tag":"LOC"},{"start":1,"end":8,"tag":"LOC"},{"start":57,"end":64,"tag":"LOC"}]},{"sentence":"εἰς Λιλύβαιον στάδια ˏαχ· κατὰ Τιμοσθένην ἀπὸ Λιλυβαίου εἰς Πελωριάδα στάδια ˏαφ· ἀπὸ Λιλυβαίου διάπλους εἰς Ἀσπίδα τῆς Λιβύης","entities":[{"start":114,"end":123,"tag":"LOC"},{"start":88,"end":97,"tag":"LOC"},{"start":32,"end":41,"tag":"LOC"},{"start":74,"end":83,"tag":"LOC"},{"start":20,"end":27,"tag":"LOC"}]},{"sentence":"ἐγγὺς στάδια ˏαφ. Κέρκινα νῆσος μῆκος σ πλάτος στάδια ο, ὅπου","entities":[{"start":10,"end":16,"tag":"LOC"},{"start":21,"end":27,"tag":"LOC"},{"start":46,"end":59,"tag":"LOC"},{"start":46,"end":53,"tag":"LOC"},{"start":10,"end":27,"tag":"LOC"}]},{"sentence":"δὲ στενοτάτη στάδια μ. ὑπέρκειται δὲ πόλεως ἠπειρωτικῆς Θεήνης","entities":[]},{"sentence":"ἣ κεῖται τῆς μικρᾶς Σύρτιδος ἐπὶ τῆς ἀρχῆς· τῇ δὲ Κερκίνῃ παράκειται","entities":[{"start":9,"end":27,"tag":"LOC"},{"start":21,"end":27,"tag":"LOC"},{"start":41,"end":56,"tag":"LOC"},{"start":2,"end":27,"tag":"LOC"}]},{"sentence":"νῆσος Καρκινῖτις γεφύρᾳ ζευχθεῖσα στάδια μῆκος μ,  πλάτος δὲ","entities":[{"start":34,"end":44,"tag":"LOC"},{"start":9,"end":16,"tag":"LOC"},{"start":28,"end":44,"tag":"LOC"}]},{"sentence":"στάδια κε.","entities":[]},{"sentence":" ἀπὸ Κερκίνης ἐπὶ νῆσον Μήνιγγα τὴν Λωτοφαγῖτιν ὁ","entities":[{"start":35,"end":43,"tag":"LOC"}]},{"sentence":"διάπλους στάδια χ, ὅσον τῆς μικρᾶς λέγεται Σύρτιδος τὸ στόμα, ἡ δὲ","entities":[{"start":54,"end":90,"tag":"LOC"},{"start":54,"end":81,"tag":"LOC"},{"start":4,"end":27,"tag":"LOC"}]},{"sentence":" Μῆνιγξ μῆκος σταδίων χ  πλάτος σταδίων ρπ, μεγάλαι δ’ εἰσὶ περὶ","entities":[{"start":31,"end":37,"tag":"LOC"}]},{"sentence":"αὐτὴν παλίρροιαι. ","entities":[]},{"sentence":"Κεφαλληνία νῆσος τετράπολις μῆκος σταδίων υ.","entities":[{"start":31,"end":41,"tag":"LOC"},{"start":31,"end":58,"tag":"LOC"},{"start":31,"end":47,"tag":"LOC"}]},{"sentence":"εἴσι δὲ καὶ  ἐν τῷ Ἀδρίᾳ νῆσοι παρὰ τὴν Ἰλλυρίδα ὧν ἐπισημότεραι","entities":[{"start":50,"end":55,"tag":"LOC"},{"start":56,"end":79,"tag":"LOC"}]},{"sentence":"Ἴσση καὶ ἡ μέλαινα Κόρκυρα καὶ Φάρος καὶ Μελίτη, ὧν ἀγνοῶ τὰς","entities":[{"start":40,"end":57,"tag":"LOC"},{"start":31,"end":35,"tag":"LOC"},{"start":6,"end":14,"tag":"LOC"}]},{"sentence":"περιμέτρους. ","entities":[{"start":0,"end":5,"tag":"LOC"},{"start":10,"end":16,"tag":"LOC"}]},{"sentence":"Πελοποννήσου δὲ ὁ περίπλους καὶ τῶν κόλπων","entities":[{"start":32,"end":44,"tag":"LOC"}]},{"sentence":"συμμετρουμένων στάδια ˏεχκζ, χωρὶς δὲ τοῦ κατακολπίσαι ὁ περίπλους","entities":[{"start":25,"end":31,"tag":"LOC"}]},{"sentence":"στάδια ˏδ,  μῆκος δὲ ἀπὸ Μαλέας ἕως Αἰγίου στάδια ˏαυ. ἔχει δὲ","entities":[{"start":57,"end":63,"tag":"LOC"}]},{"sentence":"ὅμοιον σχῆμα φύλλῳ πλατάνου κόλποις μεγάλοις τεμνομένη. συνάγεται","entities":[{"start":60,"end":67,"tag":"LOC"},{"start":5,"end":11,"tag":"LOC"}]},{"sentence":"μὲν εἰς  τὸν Κορινθίων ἰσθμὸν πλάτος σταδίων μ ἀπὸ τοῦ Κορινθίου","entities":[{"start":45,"end":61,"tag":"LOC"}]},{"sentence":"κόλπου καὶ Σαρωνικοῦ. ἐπὶ τὸ Σκύλλαιον ἄκρον, ἔνθα ἐξ εὐωνύμων","entities":[{"start":22,"end":31,"tag":"LOC"},{"start":22,"end":38,"tag":"LOC"},{"start":43,"end":52,"tag":"LOC"}]},{"sentence":"πρόκειται νῆσος  Καλαυρία Ποσειδῶνος ἱερά, ἑξῆς δ’ ὁ Ἀργολικὸς","entities":[{"start":42,"end":57,"tag":"LOC"},{"start":49,"end":57,"tag":"LOC"}]},{"sentence":"κόλπος μέχρι Μαλέας ἄκρου ὃ πολὺ προπέπτωκεν εἰς πέλαγος, εἶτα ὁ","entities":[{"start":22,"end":38,"tag":"LOC"},{"start":22,"end":31,"tag":"LOC"},{"start":45,"end":57,"tag":"LOC"},{"start":45,"end":51,"tag":"LOC"}]},{"sentence":"Ἑρμιονικὸς κόλπος, ἑξῆς δὲ μετὰ Μαλέαν Λακωνικὸς κόλπος ἕως","entities":[{"start":16,"end":23,"tag":"LOC"},{"start":32,"end":49,"tag":"LOC"},{"start":32,"end":42,"tag":"LOC"}]},{"sentence":"Ταινάρου ἐκ δεξιῶν, ὃ περιορίζει ἐξ εὐωνύμων τὸν Μεσσηνιακόν","entities":[{"start":11,"end":27,"tag":"LOC"},{"start":32,"end":40,"tag":"LOC"},{"start":4,"end":10,"tag":"LOC"},{"start":11,"end":20,"tag":"LOC"}]},{"sentence":"κόλπον οὗ ἐκ δεξιῶν Ἀκρίτας ἄκρα, εἶτα  προπέπτωκεν ἄκρον","entities":[{"start":20,"end":31,"tag":"LOC"},{"start":52,"end":64,"tag":"LOC"},{"start":52,"end":59,"tag":"LOC"},{"start":20,"end":38,"tag":"LOC"}]},{"sentence":"Ἰχθὺς καθ’ ὃν κεῖται Ζάκυνθος, καὶ ἕτερον ὁ Χελωνάτας, τελευταῖον","entities":[{"start":26,"end":37,"tag":"LOC"},{"start":53,"end":61,"tag":"LOC"},{"start":32,"end":37,"tag":"LOC"}]},{"sentence":"δ’ ἄκρον Ἄραξος ἀντιπρόσωπον Ἀκαρνανίᾳ, μεθ’ ὃν  ὁ Κορινθιακὸς","entities":[{"start":10,"end":19,"tag":"LOC"},{"start":41,"end":47,"tag":"LOC"},{"start":35,"end":47,"tag":"LOC"}]},{"sentence":"ἀναχεῖται κόλπος ζ σταδίων συγκλειόμενος στόματι κατὰ τὸ ῾Ρίον","entities":[{"start":42,"end":48,"tag":"LOC"},{"start":20,"end":31,"tag":"LOC"}]},{"sentence":"ἄκρον ὅ ἐστι τῆς Πελοποννήσου τὸ δ’ Ἀντίριον Λοκρίδος. ἀπὸ  Ταινάρου ἐπὶ Φυκοῦντα Λιβύης τὸ δίαρμα στάδια ˏγ. ","entities":[{"start":77,"end":85,"tag":"LOC"},{"start":26,"end":37,"tag":"LOC"},{"start":105,"end":113,"tag":"LOC"},{"start":68,"end":76,"tag":"LOC"},{"start":49,"end":61,"tag":"LOC"},{"start":92,"end":100,"tag":"LOC"},{"start":26,"end":31,"tag":"LOC"},{"start":68,"end":85,"tag":"LOC"}]},{"sentence":"Αἴγινα νῆσος","entities":[{"start":3,"end":9,"tag":"LOC"}]},{"sentence":"προμήκης στάδια ρξ ἐξ ἐναντίας κεῖται τῆς Ἀττικῆς, Σαλαμὶς  μῆκος","entities":[{"start":20,"end":32,"tag":"LOC"},{"start":20,"end":26,"tag":"LOC"}]},{"sentence":"σταδ ο, ἡ Κεία ρκ. τῶν δὲ Κυκλάδων κρατίστη ἐστὶν ἡ Νάξος, διὸ","entities":[{"start":59,"end":76,"tag":"LOC"},{"start":18,"end":25,"tag":"LOC"},{"start":9,"end":16,"tag":"LOC"},{"start":43,"end":47,"tag":"LOC"},{"start":59,"end":67,"tag":"LOC"}]},{"sentence":"μικρὰ λέγεται Σικελία· ἐκ δεξιῶν δ’ αἱ Σποράδες. ἡ δ’ Εὔβοια  γεφύρᾳ","entities":[{"start":47,"end":54,"tag":"LOC"},{"start":33,"end":54,"tag":"LOC"},{"start":22,"end":27,"tag":"LOC"}]},{"sentence":"πρὸς τὴν Βοιωτίαν ἔζευκται, παρατείνει δὲ Βοιωτίδα Φωκίδα Λοκρούς,","entities":[{"start":3,"end":11,"tag":"LOC"},{"start":18,"end":24,"tag":"LOC"},{"start":42,"end":50,"tag":"LOC"}]},{"sentence":"ἐκ δὲ θατέρου ἐπί ποσον καὶ τῇ Ἀττικῇ, ἔστι γὰρ μακρά,  διὸ Μάκρις","entities":[{"start":64,"end":70,"tag":"LOC"},{"start":17,"end":23,"tag":"LOC"},{"start":8,"end":16,"tag":"LOC"},{"start":24,"end":31,"tag":"LOC"}]},{"sentence":"ὠνομάσθη, μῆκος σταδίων ˏαψ. ","entities":[{"start":26,"end":32,"tag":"LOC"}]},{"sentence":"ἡ δὲ Κρήτη κατὰ Μαλέαν πλησιάζει","entities":[]},{"sentence":"Πελοποννήσῳ, περίμετρος δὲ αὐτῆς σταδίων ˏδρ μῆκος ˏβτ,  κατὰ","entities":[{"start":34,"end":45,"tag":"LOC"},{"start":6,"end":11,"tag":"LOC"},{"start":17,"end":23,"tag":"LOC"}]},{"sentence":"Πολὺ γὰρ μεμήκυται. Κύθηρα μέσον Κρήτης καὶ Λακωνικῆς. Κύπρος","entities":[{"start":54,"end":60,"tag":"LOC"}]},{"sentence":"βύρσῃ τὸ σχῆμα ὁμοία, περίπλους στάδια ˏγ(υκ),  μῆκος δὲ ˏατ, ἀπὸ","entities":[{"start":5,"end":11,"tag":"LOC"},{"start":27,"end":33,"tag":"LOC"},{"start":16,"end":25,"tag":"LOC"}]},{"sentence":"Πάφου εἰς Ἀλεξάνδρειαν δίαρμα βορέου σταδίων ˏγω. Ῥόδου περίμετρος στάδια ˏατ. Κῶ περίμετρος στάδια φν. Σάμος στάδια χλ.  ","entities":[{"start":84,"end":89,"tag":"LOC"},{"start":44,"end":56,"tag":"LOC"},{"start":34,"end":39,"tag":"LOC"},{"start":113,"end":115,"tag":"LOC"}]},{"sentence":"Ἰκαρία δέ ἐστι μακρὰ τραχεῖα, μῆκος σταδίων τ. Χίου περίμετρος","entities":[{"start":34,"end":40,"tag":"LOC"},{"start":15,"end":20,"tag":"LOC"}]},{"sentence":"στάδια χξ. Λέσβου περίμετρος στάδ ˏαρ.","entities":[{"start":18,"end":22,"tag":"LOC"}]}]
+[
+  [
+    "﻿Ἀγαθημέρου τοῦ Ὄρθωνος",
+    {
+      "entities": [[0, 11, "PERSON"]]
+    }
+  ],
+  [
+    "γεωγραφίας ὑποτύπωσις",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Ἀναξίμανδρος ὁ Μιλήσιος ἀκουστὴς Θάλεω πρῶτος ἀπετόλμησε",
+    {
+      "entities": [[33, 38, "PERSON"], [15, 23, "LOC"], [0, 12, "PERSON"]]
+    }
+  ],
+  [
+    "τὴν οἰκουμένην ἐν πίνακι γράψαι, μεθ’ ὅν Ἑκαταῖος ὁ Μιλήσιος ἀνὴρ",
+    {
+      "entities": [[41, 49, "PERSON"], [4, 14, "LOC"], [52, 60, "LOC"]]
+    }
+  ],
+  [
+    "πολυπλανὴς διηκρίβωσεν ὥστε θαυμασθῆναι τὸ πρᾶγμα. Ἑλλάνικος",
+    {
+      "entities": [[51, 60, "PERSON"]]
+    }
+  ],
+  [
+    "γὰρ ὁ Λέσβιος ἀνὴρ πολυίστωρ ἀπλάστως παρέδωκε τὴν ἱστορίαν. εἶτα",
+    {
+      "entities": [[6, 13, "LOC"]]
+    }
+  ],
+  [
+    "Δαμάστης ὁ Κιτιεὺς τὰ πλεῖστα ἐκ τῶν Ἑκαταίου μεταγράψας",
+    {
+      "entities": [[37, 45, "PERSON"], [0, 8, "PERSON"], [11, 18, "LOC"]]
+    }
+  ],
+  [
+    "περίπλουν ἔγραψεν. ἑξῆς Δημόκριτος καὶ Εὔδοξος καὶ ἄλλοι τινὲς γῆς",
+    {
+      "entities": [[39, 46, "PERSON"], [24, 34, "PERSON"]]
+    }
+  ],
+  [
+    "περιόδους καὶ περίπλους ἐπραγματεύσαντο. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Οἱ μὲν οὖν παλαιοὶ τὴν",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "οἰκουμένην ἔγραφον στρογγύλην, μέσην δ’ ἡγεῖσθαι τὴν Ἑλλάδα καὶ",
+    {
+      "entities": [[0, 10, "LOC"], [53, 59, "LOC"]]
+    }
+  ],
+  [
+    "ταύτης Δελφούς, τὸν ὀμφαλὸν γὰρ ἔχειν τῆς γῆς. πρῶτος δὲ Δημόκριτος",
+    {
+      "entities": [[7, 14, "LOC"], [57, 67, "PERSON"]]
+    }
+  ],
+  [
+    "πολύπειρος ἀνὴρ συνεῖδεν ὅτι προμήκης ἐστὶν ἡ γῆ ἡμιόλιον τὸ μῆκος",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "τοῦ πλάτους ἔχουσα. συνῄνεσε τούτῳ καὶ Δικαίαρχος ὁ περιπατητικός.",
+    {
+      "entities": [[39, 65, "PERSON"], [39, 49, "PERSON"]]
+    }
+  ],
+  [
+    "Εὔδοξος δὲ τὸ μῆκος διπλοῦν τοῦ πλάτους, ὁ δὲ Ἐρατοσθένης πλεῖον",
+    {
+      "entities": [[46, 57, "PERSON"], [0, 7, "PERSON"]]
+    }
+  ],
+  [
+    "τοῦ διπλοῦ, Κράτης δὲ ὡς ἡμικύκλιον, Ἵππαρχος δὲ τραπεζοειδῆ,",
+    {
+      "entities": [[12, 18, "PERSON"], [37, 45, "PERSON"]]
+    }
+  ],
+  [
+    "ἄλλοι δὲ οὐροειδῆ, Ποσειδώνιος δ’ ὁ Στωϊκὸς σφενδονοειδῆ καὶ",
+    {
+      "entities": [[19, 43, "PERSON"], [19, 30, "PERSON"]]
+    }
+  ],
+  [
+    "μεσόπλατον ἀπὸ νότου εἰς βορρᾶν, στενὴν πρὸς ἕω καὶ δύσιν, τὰ πρὸς",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "εὖρον δ’ ὁμοίως πλατύτερα τὰ πρὸς τὴν Ἰνδικήν. ",
+    {
+      "entities": [[38, 45, "LOC"]]
+    }
+  ],
+  [
+    "Ὅροι ἠπείρων·",
+    {
+      "entities": [[5, 12, "LOC"], [0, 4, "LOC"]]
+    }
+  ],
+  [
+    "Εὐρώπης μὲν καὶ Λιβύης αἴ Ἡρακλέους στῆλαι, Λιβύης δὲ καὶ Ἀσίας",
+    {
+      "entities": [
+        [44, 50, "LOC"],
+        [26, 42, "LOC"],
+        [58, 63, "LOC"],
+        [16, 22, "LOC"],
+        [26, 35, "PERSON"],
+        [0, 7, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ὁ Νεῖλος· οἱ δ’ ἰσθμὸν τὸν ἀπὸ Σερβωνίδος λίμνης καὶ Ἀραβίου",
+    {
+      "entities": [
+        [16, 48, "LOC"],
+        [31, 41, "LOC"],
+        [2, 8, "LOC"],
+        [53, 67, "LOC"]
+      ]
+    }
+  ],
+  [
+    "κόλπου, Ἀσίας δὲ καὶ Εὐρώπης οἱ μὲν ἀρχαῖοι Φᾶσιν ποταμὸν καὶ τὸν",
+    {
+      "entities": [
+        [44, 49, "LOC"],
+        [62, 84, "LOC"],
+        [8, 13, "LOC"],
+        [21, 28, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἕως Κασπίας ἰσθμόν, οἱ δ’ ὕστερον νεώτεροι Μαιῶτιν λίμνην καὶ",
+    {
+      "entities": [[43, 50, "LOC"], [4, 11, "LOC"], [43, 57, "LOC"]]
+    }
+  ],
+  [
+    "Τάναϊν ποταμόν. ",
+    {
+      "entities": [[0, 6, "LOC"], [0, 14, "LOC"]]
+    }
+  ],
+  [
+    "Ἐκλήθησαν δ’ ἤπειροι ἄπειροί τινες οὖσαι δι’",
+    {
+      "entities": [[13, 20, "LOC"]]
+    }
+  ],
+  [
+    "ἄγνοιαν· Ἀσία δ’ ἀπὸ τοῦ ἆσσον ἰέναι τοῖς ἀπ’ Εὐρώπης ἀπιοῦσι καὶ",
+    {
+      "entities": [[9, 13, "LOC"], [46, 53, "LOC"]]
+    }
+  ],
+  [
+    "πεζῆ καὶ νήσοις στιχηδὸν κειμέναις· Εὔβοια Ἄνδρος Τῆνος Μύκονος",
+    {
+      "entities": [
+        [50, 55, "LOC"],
+        [43, 49, "LOC"],
+        [36, 42, "LOC"],
+        [56, 63, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Ἰκαρία Σάμος Μυκάλη. ἡ δὲ Εὐρώπη ἀπὸ τοῦ εὔρους ὠνομάσθη,",
+    {
+      "entities": [
+        [0, 6, "LOC"],
+        [7, 12, "LOC"],
+        [13, 19, "LOC"],
+        [26, 32, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Λιβύη δ’ ὑφ’ Ἑλλήνων ἦν ἄγνωστος πάνυ, ἀπὸ δὲ ἔθνους ἐπισήμου",
+    {
+      "entities": [[13, 20, "PERSON"], [0, 5, "LOC"]]
+    }
+  ],
+  [
+    "Φοίνικες ὠνομάσθησαν πλέοντες, ὠκεανὸς δὲ διὰ τὸ ὠκέως ἀνύειν",
+    {
+      "entities": [[0, 8, "LOC"], [31, 38, "LOC"]]
+    }
+  ],
+  [
+    "κύκλῳ τὴν γῆν. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Δικαίαρχος δ’ ὁρίζει τὴν γῆν οὐχ ὕδασιν ἀλλὰ τομῇ",
+    {
+      "entities": [[0, 10, "PERSON"]]
+    }
+  ],
+  [
+    "εὐθείᾳ εὐκράτῳ ἀπὸ Στηλῶν διὰ Σαρδοῦς Σικελίας Πελοποννήσου",
+    {
+      "entities": [
+        [30, 37, "LOC"],
+        [38, 46, "LOC"],
+        [19, 25, "LOC"],
+        [47, 59, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Ἰωνίας Καρίας Λυκίας Παμφυλίας Κιλικίας καὶ Ταύρου ἑξῆς ἕως",
+    {
+      "entities": [
+        [0, 6, "LOC"],
+        [7, 13, "LOC"],
+        [44, 50, "LOC"],
+        [31, 39, "LOC"],
+        [14, 20, "LOC"],
+        [21, 30, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Ἰμάου ὄρους· τῶν τοίνυν τόπων τὸ μὲν βόρειον τὸ δὲ νότιον ὀνομάζει.",
+    {
+      "entities": [[0, 11, "LOC"], [0, 5, "LOC"]]
+    }
+  ],
+  [
+    "Ἄνεμοι δὲ πνέουσιν ἀπὸ μὲν ἰσημερινῆς ἀνατολῆς ἀπηλιώτης, ἀπὸ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "δὲ ἰσημερινῆς δύσεως ζέφυρος, ἀπό δὲ μεσημβρίας νότος, ἀπὸ δὲ ἄρκτου",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "ἀπαρκτίας, ἀπὸ δὲ τροπῆς θερινῆς καικίας, ἑξῆς δὲ ἀπὸ ἰσημερινῆς",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "ἀνατολῆς ἀπηλιώτης καὶ ἀπὸ χειμερινῆς εὖρος, δυσμικοὶ δὲ ἀπὸ μὲν",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "δύσεως χειμερινῆς λίψ, καὶ ἑξῆς πάλιν ἀπὸ δύσεως ἰσημερινῆς",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "ζέφυρος, ἀπὸ δὲ δύσεως θερινῆς ἀργέστης ἤτοι Ὀλυμπίας ὁ καὶ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Ἰᾶπυξ, εἶτα νότος καὶ ἀπαρκτίας ἀντιπνέοντες ἀλλήλοις· γίνονται",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "οὖν ὀκτώ. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Τιμοσθένης δὲ ὁ γράψας τοὺς περίπλους δώδεκά φησι",
+    {
+      "entities": [[0, 10, "PERSON"]]
+    }
+  ],
+  [
+    "προστιθεὶς μέσον ἀπαρκτίου καὶ καικίου βορέαν, εὔρου δὲ καὶ νότου",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "φοίνικα τὸν καὶ εὐρόνοτον, μέσον δὲ νότου καὶ λιβὸς τὸν λευκόνοτον",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "ἤτοι λιβόνοτον, μέσον δὲ ἀπαρκτίου καὶ ἀργέστου θρασκίαν ἤτοι",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "κίρκιον ὑπὸ τῶν περιοίκων ὀνομαζόμενον. ἔθνη δὲ οἰκεῖν τὰ πέρατα",
+    {
+      "entities": [[40, 44, "LOC"]]
+    }
+  ],
+  [
+    "κατ’ ἀπηλιώτην Βακτριανούς, κατ’ εὖρον Ἰνδούς, κατὰ φοίνικα",
+    {
+      "entities": [[39, 45, "LOC"], [15, 26, "LOC"]]
+    }
+  ],
+  [
+    "Ἐρυθρὰν θάλασσαν καὶ Αἰθιοπίαν, κατὰ νότον τὴν ὑπὲρ Αἴγυπτον",
+    {
+      "entities": [
+        [21, 30, "LOC"],
+        [0, 7, "LOC"],
+        [43, 70, "LOC"],
+        [52, 60, "LOC"],
+        [0, 16, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Αἰθιοπίαν, κατὰ λευκόνοτον τοὺς ὑπὲρ Σύρτεις Γαράμαντας, κατὰ",
+    {
+      "entities": [[27, 55, "LOC"], [0, 9, "LOC"], [37, 44, "LOC"]]
+    }
+  ],
+  [
+    "λίβα Αἰθίοπας δυσμικοὺς ὑπὲρ Μαύρους, κατὰ ζέφυρον Στήλας",
+    {
+      "entities": [[5, 35, "LOC"], [51, 57, "LOC"], [29, 36, "LOC"]]
+    }
+  ],
+  [
+    "καὶ ἀρχὰς Λιβύης καὶ Εὐρώπης, κατὰ ἀργέστην Ἰβηρίαν τὴν νῦν",
+    {
+      "entities": [
+        [10, 16, "LOC"],
+        [4, 16, "LOC"],
+        [21, 28, "LOC"],
+        [44, 68, "LOC"],
+        [44, 51, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Ἱσπανίαν, κατὰ θρασκίαν Κελτοὺς καὶ τὰ ὅμορα, κατὰ ἀπαρκτίαν τοὺς ὑπὲρ Θράκην Σκύθας, κατὰ βορρᾶν Πόντον Μαιῶτιν",
+    {
+      "entities": [
+        [71, 77, "LOC"],
+        [105, 112, "LOC"],
+        [61, 84, "LOC"],
+        [0, 8, "LOC"],
+        [36, 44, "LOC"],
+        [98, 104, "LOC"],
+        [24, 31, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Σαρμάτας, κατὰ καικίαν Κασπίαν θάλασσαν καὶ Σάκας.",
+    {
+      "entities": [
+        [23, 39, "LOC"],
+        [44, 49, "LOC"],
+        [0, 8, "LOC"],
+        [23, 30, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἔστι δὲ ἡ μεγάλη Σύρτις σταδίων ˏε, ἡ δὲ μικρὰ σταδίων ˏαχ. τὸ δὲ",
+    {
+      "entities": [[8, 23, "LOC"], [36, 46, "LOC"]]
+    }
+  ],
+  [
+    "στόμα τοῦ Ἀδρίου ὃ καλοῦσί τινες Ἰόνιον πέλαγος ἔχει διάπλουν",
+    {
+      "entities": [
+        [10, 16, "LOC"],
+        [33, 39, "LOC"],
+        [0, 16, "LOC"],
+        [33, 47, "LOC"]
+      ]
+    }
+  ],
+  [
+    "σταδίων ψ ἀπὸ ἄκρας Ἰαπυγίας ἐπὶ Κεραύνια ὄρη τῆς Ἠπείρου.",
+    {
+      "entities": [
+        [33, 41, "LOC"],
+        [33, 45, "LOC"],
+        [50, 57, "LOC"],
+        [33, 57, "LOC"],
+        [14, 28, "LOC"]
+      ]
+    }
+  ],
+  [
+    "διαδέχεται τὸ Αἰγαῖον πέλαγος Ἑλλήσποντος λήγων εἰς Ἄβυδον",
+    {
+      "entities": [
+        [14, 21, "LOC"],
+        [52, 58, "LOC"],
+        [30, 41, "LOC"],
+        [14, 29, "LOC"]
+      ]
+    }
+  ],
+  [
+    "καὶ Σηστόν, εἶτα ἡ Προποντὶς λήγουσα εἰς Χαλκηδόνα καὶ Βυζάντιον, ἔνθα τὰ στενὰ ἀφ’ ὧν ὁ Πόντος ἄρχεται, εἶτα ἡ Μαιῶτις λίμνη.",
+    {
+      "entities": [
+        [112, 119, "LOC"],
+        [89, 95, "LOC"],
+        [41, 50, "LOC"],
+        [112, 125, "LOC"],
+        [19, 28, "LOC"],
+        [55, 64, "LOC"],
+        [4, 10, "LOC"],
+        [71, 79, "LOC"]
+      ]
+    }
+  ],
+  [
+    "πάλιν δὲ ἀπ’ ἀρχῆς Εὐρώπης καὶ Λιβύης Ἰβηρικὸν τὸ ἀπὸ Στηλῶν",
+    {
+      "entities": [
+        [38, 46, "LOC"],
+        [38, 60, "LOC"],
+        [54, 60, "LOC"],
+        [19, 26, "LOC"],
+        [31, 37, "LOC"]
+      ]
+    }
+  ],
+  [
+    "εἰς Πυρήνην τὸ ὄρος, Λιγυστικὸν δὲ τὸ ἕως τῶν τῆς Τυρρηνίας",
+    {
+      "entities": [
+        [50, 59, "LOC"],
+        [21, 67, "LOC"],
+        [21, 31, "LOC"],
+        [4, 11, "LOC"],
+        [4, 19, "LOC"],
+        [42, 67, "LOC"]
+      ]
+    }
+  ],
+  [
+    "περάτων, Σαρδῶον δὲ τὸ ὑπὲρ Σαρδὼ νεῦον πρὸς Λιβύην κάτω, Τυρρηνικὸν δὲ τὸ μέχρι Σικελίας λῆγον ἀρχόμενον ἀπὸ τῶν Λιγυστικῆς",
+    {
+      "entities": [
+        [9, 33, "LOC"],
+        [45, 56, "LOC"],
+        [28, 33, "LOC"],
+        [81, 89, "LOC"],
+        [110, 130, "LOC"],
+        [114, 124, "LOC"],
+        [9, 16, "LOC"],
+        [58, 68, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἄκρων, εἶτα Λιβυκόν, εἶτα Κρητικὸν καὶ Σικελικὸν καὶ Ἰόνιον καὶ",
+    {
+      "entities": [
+        [26, 34, "LOC"],
+        [53, 59, "LOC"],
+        [12, 19, "LOC"],
+        [39, 48, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Ἀδρίαν καὶ τὸν ἀνακεχυμένον ἐκ τοῦ Σικελικοῦ πελάγους, ὃν",
+    {
+      "entities": [[35, 53, "LOC"], [0, 6, "LOC"]]
+    }
+  ],
+  [
+    "καλοῦσι Κορινθιακὸν κόλπον ἤτοι Ἀλκυονίδα θάλασσαν. τὸ δὲ",
+    {
+      "entities": [
+        [8, 50, "LOC"],
+        [32, 41, "LOC"],
+        [8, 26, "LOC"],
+        [32, 50, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Σουνίῳ καὶ Σκυλλαίῳ περιεχόμενον πέλαγος Σαρωνικόν, εἶτα Μυρτῶον καὶ Ἰκάριον ἐν ᾧ αἱ Κυκλάδες, εἶτα Καρπάθιον καὶ Παμφύλιον",
+    {
+      "entities": [
+        [0, 6, "LOC"],
+        [114, 123, "LOC"],
+        [57, 64, "LOC"],
+        [85, 93, "LOC"],
+        [33, 50, "LOC"],
+        [41, 50, "LOC"],
+        [100, 109, "LOC"],
+        [69, 76, "LOC"],
+        [11, 19, "LOC"]
+      ]
+    }
+  ],
+  [
+    "καὶ Αἰγύπτιον. ὑπὲρ δὲ τὸ Ἰκάριον ἑξῆς ἀναχεῖται τὸ Αἰγαῖον.",
+    {
+      "entities": [[52, 59, "LOC"], [4, 13, "LOC"], [26, 33, "LOC"]]
+    }
+  ],
+  [
+    "Ἔστι δὲ ὁ τῆς Εὐρώπης παράπλους ἀπὸ Τανάιδος ποταμοῦ",
+    {
+      "entities": [[36, 44, "LOC"], [36, 52, "LOC"], [14, 21, "LOC"]]
+    }
+  ],
+  [
+    "ἐκβολῶν ἕως Ἡρακλείων στηλῶν σταδίων μυριάδων ἓξ καὶ ˏθψθ,",
+    {
+      "entities": [[12, 28, "LOC"], [22, 28, "LOC"], [12, 21, "PERSON"]]
+    }
+  ],
+  [
+    "τῆς δὲ Λιβύης ἀπὸ Τιγγὸς ἕως στόματος Κανωβικοῦ σταδίων μυριάδων",
+    {
+      "entities": [[29, 47, "LOC"], [7, 13, "LOC"], [18, 24, "LOC"]]
+    }
+  ],
+  [
+    "δύο καὶ ˏθσνβ, τῆς δ’ Ἀσίας ἀπὸ Κανώβου ἕως Τανάιδος ποταμοῦ μετά",
+    {
+      "entities": [
+        [44, 52, "LOC"],
+        [32, 39, "LOC"],
+        [22, 27, "LOC"],
+        [44, 60, "LOC"]
+      ]
+    }
+  ],
+  [
+    "τῶν κόλπων ὁ παράπλους σταδίων μυριάδων δ καὶ ρια. ὁμοῦ παράλιος",
+    {
+      "entities": [[0, 10, "LOC"]]
+    }
+  ],
+  [
+    "σῦν κόλποις τῆς καθ’ ἡμᾶς οἰκουμένης σταδίων μυριάδων ιγ καὶ, ˏθοβ",
+    {
+      "entities": [[26, 36, "LOC"], [4, 11, "LOC"]]
+    }
+  ],
+  [
+    "συμμετρουμένης τῆς Μαιώτιδος λίμνης, ἧς περίμετρος  σταδίων ˏθ,",
+    {
+      "entities": [[19, 35, "LOC"], [19, 28, "LOC"]]
+    }
+  ],
+  [
+    "τὸ δὲ στόμα ὁ Κιμμέριος Βόσπορος σταδίων κ. ",
+    {
+      "entities": [[0, 32, "LOC"], [14, 32, "LOC"]]
+    }
+  ],
+  [
+    "ὁ δὲ Πόντος",
+    {
+      "entities": [[5, 11, "LOC"]]
+    }
+  ],
+  [
+    "σταδίων ˏγτν. ὁ δὲ Θράκιος Βόσπορος τὰ στενὰ ὅπῃ Δαρεῖος ἔζευξεν",
+    {
+      "entities": [[36, 44, "LOC"], [49, 56, "PERSON"], [19, 35, "LOC"]]
+    }
+  ],
+  [
+    "ἐπὶ Σκύθας τὴν σχεδίαν σταδίων ἕξ. ",
+    {
+      "entities": [[4, 10, "LOC"]]
+    }
+  ],
+  [
+    "Ἡ δὲ Περσικὴ θάλασσα",
+    {
+      "entities": [[5, 12, "LOC"], [5, 20, "LOC"]]
+    }
+  ],
+  [
+    "κυκλοτερὴς οὖσα συνάγουσα τὸ στόμα ἄκρῳ Καρμανίας καὶ Ἀραβίας",
+    {
+      "entities": [[40, 49, "LOC"], [54, 61, "LOC"]]
+    }
+  ],
+  [
+    "περίμετρον ἔχει μυριάδων δύο σταδίων. ἔστι δὲ τὸ μεταξὺ στόμα",
+    {
+      "entities": [[46, 83, "LOC"]]
+    }
+  ],
+  [
+    "Ἀραβίας καὶ Καρμανίας σταδίων υ. ",
+    {
+      "entities": [[0, 7, "LOC"], [12, 21, "LOC"]]
+    }
+  ],
+  [
+    "Ἡ δὲ Ὑρκανία ἤτοι",
+    {
+      "entities": [[5, 12, "LOC"], [5, 32, "LOC"]]
+    }
+  ],
+  [
+    "Κασπία θάλασσα μηνοειδὴς οὖσα, κατὰ δέ τινας καὶ προμήκης, ἐστὶ",
+    {
+      "entities": [[0, 6, "LOC"], [0, 14, "LOC"]]
+    }
+  ],
+  [
+    "σταδίων δισμυρίων, τοῦ δὲ στόματος ἔχει τὸ δίαρμα",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "σταδίους  ˏα. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Ὁ δὲ Ἀράβιος κόλπος στενὸς ὢν καὶ προμήκης",
+    {
+      "entities": [[5, 19, "LOC"]]
+    }
+  ],
+  [
+    "ἄρχεται ἀπὸ Ἡρώων πολίτου μυχοῦ παρὰ τὴν Τρωγλοδυτικὴν ἕως τῆς",
+    {
+      "entities": [[12, 25, "LOC"], [12, 31, "LOC"], [41, 54, "LOC"]]
+    }
+  ],
+  [
+    "Πτολεμαΐδος τῆς ἐπὶ θήρας σταδίων ˏθ τὸ μῆκος, τὰ δὲ  κατὰ",
+    {
+      "entities": [[47, 71, "LOC"], [0, 25, "LOC"]]
+    }
+  ],
+  [
+    "Δειρὴν στενὰ σταδίων ξ, ἔνθεν ἑξῆς πλοῦς σταδίων ˏϛφ, τὸ δὲ λοιπὸν",
+    {
+      "entities": [[0, 6, "LOC"]]
+    }
+  ],
+  [
+    "οὐ πλεῖται παρὰ τὴν Ἐρυθρὰν θάλασσαν ἕως ὠκεανοῦ σταδίων ˏε. τὸ",
+    {
+      "entities": [[41, 48, "LOC"], [20, 27, "LOC"], [20, 36, "LOC"]]
+    }
+  ],
+  [
+    "δὲ παρὰ τὴν Ἀραβίαν πλευρὰν ἀπὸ Αἰλανίτου μυχοῦ  σταδίων μυρίων",
+    {
+      "entities": [[8, 27, "LOC"], [32, 47, "LOC"], [12, 19, "LOC"]]
+    }
+  ],
+  [
+    "ˏδ. αὐτὴ δὲ ἡ Ἀραβία εἰς τὴν Ἐρυθρὰν καθήκει καὶ μεμήκυται ἐπὶ",
+    {
+      "entities": [[29, 36, "LOC"], [14, 20, "LOC"]]
+    }
+  ],
+  [
+    "σταδίων μυρίων δισχιλίων.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Μῆκος δὲ τῆς οἰκουμένης ἀπὸ Γάγγου εἰς τὰ Γάδειρα σταδίων",
+    {
+      "entities": [[13, 23, "LOC"], [42, 49, "LOC"], [28, 34, "LOC"]]
+    }
+  ],
+  [
+    " μυριάδων ϛ καὶ ˏηφμε οὕτως· ἀπὸ μὲν Γάγγου ποταμοῦ ἕως",
+    {
+      "entities": [[37, 43, "LOC"], [37, 51, "LOC"]]
+    }
+  ],
+  [
+    "Μυριάνδρου τῆς ἐν Ἰσσικῷ κόλπῳ σταδίων μυριάδων τεσσάρων καὶ",
+    {
+      "entities": [[18, 30, "LOC"], [0, 30, "LOC"], [0, 10, "LOC"]]
+    }
+  ],
+  [
+    "v χιλίων ψκε οὕτως, ἀπὸ Γάγγου  ἐπὶ ἐκβολὰς Ἰνδοῦ ποταμοῦ σταδίων",
+    {
+      "entities": [
+        [24, 30, "LOC"],
+        [44, 57, "LOC"],
+        [44, 49, "LOC"],
+        [36, 57, "LOC"]
+      ]
+    }
+  ],
+  [
+    "μυρίων ˏϛ, ἀπὸ Ἰνδοῦ ἕως Κασπίων πυλῶν μυρίων πεντακισχιλίων",
+    {
+      "entities": [[15, 20, "LOC"], [25, 38, "LOC"]]
+    }
+  ],
+  [
+    "τριακοσίων, ἐπὶ τὸν Εὐφράτην σταδίων μυρίων ν,  εἰς Μυρίανδρον",
+    {
+      "entities": [[20, 28, "LOC"], [52, 62, "LOC"]]
+    }
+  ],
+  [
+    "σταδίων τοε, ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "ἀπὸ δὲ Μυριάνδρου ἐπὶ Γάδειρα σταδίων δισμυρίων",
+    {
+      "entities": [[22, 29, "LOC"], [7, 17, "LOC"]]
+    }
+  ],
+  [
+    "ˏϛωκ οὕτως· ἀπὸ Μυριάνδρου ἐπὶ Κλεῖδας Κύπρου σταδίων  χιλίων",
+    {
+      "entities": [[31, 45, "LOC"], [39, 45, "LOC"], [16, 26, "LOC"]]
+    }
+  ],
+  [
+    "τετρακοσίων, ἐπὶ Ἀκάμαντα τὸ ἀκρωτήριον στάδιοι ˏατ, ἐπὶ δὲ",
+    {
+      "entities": [[17, 39, "LOC"], [17, 25, "LOC"]]
+    }
+  ],
+  [
+    "Χελιδονίας διὰ Παμφυλίου πελάγους στάδια ˏα↑, εἰς Πάταρα στάδια",
+    {
+      "entities": [
+        [50, 56, "LOC"],
+        [15, 24, "LOC"],
+        [15, 33, "LOC"],
+        [0, 10, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ω,  εἰς ῾Ρόδον στάδια ψ, εἰς Ἀστυπάλαιαν διὰ Καρπαθίου στάδια",
+    {
+      "entities": [[9, 14, "LOC"], [45, 54, "LOC"], [29, 40, "LOC"]]
+    }
+  ],
+  [
+    "ρμ, ἐπὶ Ταίναρον στάδια ˏα↑ν, ἐπὶ Πάχυνον Σικελίας στάδια ˏδ, ἐπὶ",
+    {
+      "entities": [
+        [42, 50, "LOC"],
+        [34, 50, "LOC"],
+        [34, 41, "LOC"],
+        [8, 16, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Λιλύβαιον  διὰ Λιβυκοῦ πελάγους στάδια ˏαφκ, ἐπὶ δὲ Κάραλιν",
+    {
+      "entities": [
+        [15, 31, "LOC"],
+        [0, 9, "LOC"],
+        [52, 59, "LOC"],
+        [15, 22, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Σαρδοῦς διὰ Τυρσηνικοῦ πελάγους στάδια ˏαω, ἐπὶ Γάδειρα ὑπερπλεύσαντι Γυμνησίας  νήσους στάδια μύρια, ἀπὸ Γαδείρων δὲ διὰ Ἱεροῦ",
+    {
+      "entities": [
+        [12, 31, "LOC"],
+        [70, 79, "LOC"],
+        [106, 114, "LOC"],
+        [70, 87, "LOC"],
+        [0, 7, "LOC"],
+        [12, 22, "LOC"],
+        [48, 55, "LOC"],
+        [122, 138, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἀκρωτηρίου καὶ Ἀρτάβρων λιμένος στάδιοι ˏζ↑λβ· ὁμοῦ γίνονται",
+    {
+      "entities": [[15, 31, "LOC"]]
+    }
+  ],
+  [
+    "μυριάδες ἑπτὰ καὶ ˏϛυοζ. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "καὶ ἄλλως· ἀπὸ Γάγγου ἕως Εὐφράτου",
+    {
+      "entities": [[26, 42, "LOC"], [26, 34, "LOC"], [15, 21, "LOC"]]
+    }
+  ],
+  [
+    "ποταμοῦ μυριάδων τεσσάρων καὶ χιλίων τν, ἀπὸ Εὐφράτου εἰς Μάζακα",
+    {
+      "entities": [[45, 53, "LOC"], [58, 75, "LOC"]]
+    }
+  ],
+  [
+    "Καππαδοκῶν στάδια ˏα↑ν, ἀπὸ δὲ  Μαζάκων διὰ Φρυγίας τῆς παρορίου",
+    {
+      "entities": [[44, 64, "LOC"], [32, 39, "LOC"]]
+    }
+  ],
+  [
+    "καὶ μεγάλης καὶ Καρίας ἕως Ἐφέσου στάδιοι ˏζ↑ϟ· ὁμοῦ ἀπὸ Γάγγου",
+    {
+      "entities": [
+        [4, 11, "LOC"],
+        [57, 63, "LOC"],
+        [27, 33, "LOC"],
+        [16, 22, "LOC"]
+      ]
+    }
+  ],
+  [
+    "εἰς Ἔφεσον σταδίων μυριάδων τεσσάρων καὶ ˏζσϟ. ἀπὸ δὲ",
+    {
+      "entities": [[4, 10, "LOC"]]
+    }
+  ],
+  [
+    "Ἐφέσου εἰς Δῆλον διὰ τοῦ Αἰγαίου στάδια ˏαχ, ἐπὶ Ἰσθμὸν στάδια ˏαψ,",
+    {
+      "entities": [
+        [25, 32, "LOC"],
+        [49, 55, "LOC"],
+        [11, 16, "LOC"],
+        [0, 6, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἀπὸ Ἰσθμοῦ διὰ Κορινθίου κόλπου εἰς Πάτρας στάδια ψκ, ἐπὶ Λευκάδα",
+    {
+      "entities": [
+        [15, 24, "LOC"],
+        [15, 31, "LOC"],
+        [58, 65, "LOC"],
+        [4, 10, "LOC"],
+        [36, 42, "LOC"]
+      ]
+    }
+  ],
+  [
+    "στάδια ψ, ἐπὶ Κόρκυραν στάδια ψ, ἐπ’ Ἀκροκεραύνια ὄρη στάδια",
+    {
+      "entities": [[37, 53, "LOC"], [37, 49, "LOC"], [14, 22, "LOC"]]
+    }
+  ],
+  [
+    "χξ, ἐπὶ Βρεντέσιον στάδια ψ, ἀπὸ Βρεντεσίου πεζῇ ὁδεύοντι ἕως",
+    {
+      "entities": [[33, 43, "LOC"], [8, 18, "LOC"]]
+    }
+  ],
+  [
+    " ῾Ρώμης στάδια ˏβωπ, ἀπὸ Ῥώμης ἐπὶ τὰς ῎Αλπεις ἕως Σκιγγομάγου",
+    {
+      "entities": [
+        [2, 7, "LOC"],
+        [51, 62, "LOC"],
+        [51, 68, "LOC"],
+        [40, 46, "LOC"],
+        [25, 30, "LOC"]
+      ]
+    }
+  ],
+  [
+    "κώμης ὑπὸ ταῖς Ἄλπεσιν οὔσης στάδια ˏδρνβ, εἶτα διὰ Κελτικῆς ",
+    {
+      "entities": [[15, 22, "LOC"], [52, 60, "LOC"]]
+    }
+  ],
+  [
+    "ἕως πόλεως ’Ιλλυγύρεως ὑπό τῇ Πυρήνῃ οὔσης στάδια ˏγψμδ, εἶτα",
+    {
+      "entities": [[12, 22, "LOC"], [30, 36, "LOC"], [4, 22, "LOC"]]
+    }
+  ],
+  [
+    "διὰ Ἰβηρίας ἕως Γαδείρων στάδια ˏϛχνδ, καὶ ὁ διάπλους ἐπὶ Γάδειρα",
+    {
+      "entities": [[4, 11, "LOC"], [16, 24, "LOC"], [58, 65, "LOC"]]
+    }
+  ],
+  [
+    "διὰ τῶν πανδοκίων στάδια ξ· ὁμοῦ ἀπὸ Γάγγου εἰς Γάδειρα  σταδίων",
+    {
+      "entities": [[48, 55, "LOC"], [4, 17, "LOC"], [37, 43, "LOC"]]
+    }
+  ],
+  [
+    "μυριάδες ἑπτὰ καὶ ˏαφξ. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Πλάτος δὲ τῆς οἰκουμένης ἀπὸ τῆς",
+    {
+      "entities": [[14, 24, "LOC"]]
+    }
+  ],
+  [
+    "Αἰθιοπικῆς θαλάσσης ἐπὶ Μερόην σταδίων ˏε, ἀπὸ Μερόης εἰς Ἀλεξάνδρειαν  σταδίων μυρίων, ἀπὸ δὲ Ἀλεξανδρείας ἐπὶ Τάναϊν",
+    {
+      "entities": [
+        [95, 107, "LOC"],
+        [47, 53, "LOC"],
+        [112, 118, "LOC"],
+        [58, 70, "LOC"],
+        [0, 19, "LOC"],
+        [0, 10, "LOC"],
+        [24, 30, "LOC"]
+      ]
+    }
+  ],
+  [
+    "μυρίων ˏα νϛ (τὰ γὰρ ἄνω τῶν ἐκβολῶν τοῦ Τανάιδος ἀγνοεῖται εἰς",
+    {
+      "entities": [[41, 49, "LOC"]]
+    }
+  ],
+  [
+    "βορρᾶν) οὕτως· ἀπὸ Ἀλεξανδρείας  εἰς Λίνδον Ῥόδου στάδια ˏδφ,",
+    {
+      "entities": [
+        [37, 43, "LOC"],
+        [37, 49, "LOC"],
+        [44, 49, "LOC"],
+        [19, 31, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἐπὶ τὸ Θοάντιον δεξιὸν παραπλέοντι ῾Ρόδον στάδια υ, ἐπὶ Τῆλον",
+    {
+      "entities": [[35, 41, "LOC"], [7, 15, "LOC"], [56, 61, "LOC"]]
+    }
+  ],
+  [
+    "στάδια ρξ, ἐπὶ Λακτῆρα τῆς Κῴας στάδια ρκ,  ἐπὶ Δρέπανον Κῴας",
+    {
+      "entities": [
+        [27, 31, "LOC"],
+        [57, 61, "LOC"],
+        [15, 31, "LOC"],
+        [15, 22, "LOC"],
+        [48, 61, "LOC"],
+        [48, 56, "LOC"]
+      ]
+    }
+  ],
+  [
+    "στάδια ρ, ἐπὶ Ἀρκίτιν νῆσον στάδια σλ, ἐπὶ Κορσίας ρ, ἐπὶ Σαμίων",
+    {
+      "entities": [
+        [14, 27, "LOC"],
+        [43, 50, "LOC"],
+        [58, 64, "LOC"],
+        [58, 72, "LOC"],
+        [14, 21, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Ἄμπελον στάδια λ, ἐπὶ τὸ Αἰγαῖον Ἄργεννον  διὰ τοῦ Αἰγαίου",
+    {
+      "entities": [
+        [33, 41, "LOC"],
+        [25, 32, "LOC"],
+        [51, 58, "LOC"],
+        [0, 7, "LOC"]
+      ]
+    }
+  ],
+  [
+    "στάδια φ, ἐπὶ τὸ Ἐρυθραῖον Κορυναῖον στάδια σο, ἐπὶ Φλίον ἄκρον",
+    {
+      "entities": [
+        [52, 57, "LOC"],
+        [52, 68, "LOC"],
+        [52, 63, "LOC"],
+        [17, 36, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Χίου στάδια ν, ἐπὶ Μελανέα ἄκρον Λέσβου στάδια υν,  ἐπὶ Σίγριον",
+    {
+      "entities": [
+        [33, 39, "LOC"],
+        [56, 63, "LOC"],
+        [0, 4, "LOC"],
+        [19, 26, "LOC"],
+        [56, 70, "LOC"],
+        [19, 39, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Λέσβου στάδια φ, εἰς Τένεδον νῆσον στάδια υν, εἰς Σίγειον στάδια ρ,",
+    {
+      "entities": [
+        [0, 6, "LOC"],
+        [21, 28, "LOC"],
+        [21, 34, "LOC"],
+        [50, 57, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἐπὶ στόμα Πόντου στάδια ˏβφ, ἐπὶ Κάραμβιν στάδια ˏβω, ἐπὶ στόμα",
+    {
+      "entities": [
+        [58, 73, "LOC"],
+        [4, 16, "LOC"],
+        [10, 16, "LOC"],
+        [33, 41, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Μαιώτιδος στάδια ˏβφ, ἐπὶ Τάναϊν στάδια ˏβσ. ",
+    {
+      "entities": [[26, 32, "LOC"], [0, 9, "LOC"]]
+    }
+  ],
+  [
+    "ἄλλως, ἀπὸ πόλεως",
+    {
+      "entities": [[11, 17, "LOC"]]
+    }
+  ],
+  [
+    "εἰς πόλιν, ἀπὸ Ἀλεξανδρείας εἰς Ῥόδον στάδια ˏδχο, εἰς Κνίδον",
+    {
+      "entities": [
+        [15, 27, "LOC"],
+        [32, 37, "LOC"],
+        [4, 9, "LOC"],
+        [55, 61, "LOC"]
+      ]
+    }
+  ],
+  [
+    "στάδια ψ, εἰς Κῶ στάδια σ, εἰς Σάμον στάδια ω, εἰς Χίον στάδια ψν, εἰς",
+    {
+      "entities": [[51, 55, "LOC"], [31, 36, "LOC"], [14, 16, "LOC"]]
+    }
+  ],
+  [
+    "Μιτυλήνην στάδια φκ, εἰς Τένεδον  ↑ν, εἰς Σίγειον ρ, ἐπὶ τὸ στόμα",
+    {
+      "entities": [
+        [60, 72, "LOC"],
+        [0, 9, "LOC"],
+        [25, 32, "LOC"],
+        [42, 49, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Πόντου ˏβφ, εἰς Κάραμβιν ˏβω, εἰς στόμα Μαιώτιδος ˏβφ, ἐπὶ Τάναϊν",
+    {
+      "entities": [
+        [34, 49, "LOC"],
+        [0, 6, "LOC"],
+        [16, 24, "LOC"],
+        [59, 73, "LOC"],
+        [59, 65, "LOC"],
+        [40, 49, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ποταμὸν ˏβσ· ὁμοῦ ἀπὸ  Ἀλεξανδρείας ἕως Τανάιδος σταδίων μυρίων",
+    {
+      "entities": [[40, 48, "LOC"], [23, 35, "LOC"]]
+    }
+  ],
+  [
+    "ˏηχϟ.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Λοιπὸν δὲ ἐροῦμεν τῶν καθ’ ἡμᾶς νήσων τὰς περιμέτρους",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "λαβόντες παρὰ Ἀρτεμιδώρου  καὶ Μενίππου καὶ ἑτέρων ἀξιοπίστων.",
+    {
+      "entities": [[31, 39, "PERSON"], [14, 25, "PERSON"]]
+    }
+  ],
+  [
+    "Γάδειρα μῆκος σταδίων ρκ, πλάτος σταδίων ιϛ. ὁ δὲ καθ’ ῾Ηρακλείους",
+    {
+      "entities": [[0, 7, "LOC"], [55, 73, "LOC"]]
+    }
+  ],
+  [
+    "στήλας πορθμὸς στενότατός ἐστι σταδίων  π. ἐν δὲ τῷ Ἰβηρικῷ",
+    {
+      "entities": [[52, 67, "LOC"], [0, 6, "LOC"], [52, 59, "LOC"]]
+    }
+  ],
+  [
+    "πελάγει νῆσοι Πιτυοῦσσαι ἡ μείζων καὶ οἰκουμένη σταδίων τ μῆκος,",
+    {
+      "entities": [[25, 33, "LOC"], [14, 24, "LOC"], [8, 24, "LOC"]]
+    }
+  ],
+  [
+    "ἡ δὲ ἐλάττων σταδίων ρ. τῶν δὲ Γυμνασίων ἃς Καρχηδόνιοι Βαλιαρίας",
+    {
+      "entities": [
+        [31, 74, "LOC"],
+        [56, 65, "LOC"],
+        [31, 40, "LOC"],
+        [0, 12, "LOC"],
+        [44, 55, "LOC"]
+      ]
+    }
+  ],
+  [
+    "καλοῦσιν (οἱ γὰρ σφενδονηταὶ οὕτω καλοῦνται οἱ Βαλιαρεῖς) ἡ μείζων",
+    {
+      "entities": [[47, 56, "LOC"], [58, 66, "LOC"]]
+    }
+  ],
+  [
+    "μῆκος σταδίων ˏασ, πλάτος σταδίων υ, ἡ ἐλάττων σταδίων  τ. αἱ δὲ",
+    {
+      "entities": [[37, 46, "LOC"]]
+    }
+  ],
+  [
+    "Στοιχάδες αἱ φερώνυμοι ἑξῆς ἐπ’ εὐθείας κεῖνται πρὸ τῶν Μασσαλιακῶν",
+    {
+      "entities": [[56, 74, "LOC"], [56, 67, "LOC"], [0, 9, "LOC"]]
+    }
+  ],
+  [
+    "πόλεων αἱ μὲν μείζους τρεῖς δύο δὲ μικραὶ αὐτῆς ἐγγὺς  Μασσαλίας.",
+    {
+      "entities": [[55, 64, "LOC"], [28, 41, "LOC"], [7, 27, "LOC"]]
+    }
+  ],
+  [
+    "ἡ δὲ Σαρδὼ ἔχει σχῆμα ὡς ποδὸς ἴχνος μεσόκοιλος τὸ μῆκος ˏβσ, ",
+    {
+      "entities": [[5, 10, "LOC"]]
+    }
+  ],
+  [
+    "Κύρνος ἐγγὺς Σαρδοῦς πολλῷ δὲ ἀγενεστέρα ἔλαττον ἢ ἥμισυ τοῦ",
+    {
+      "entities": [[0, 6, "LOC"], [13, 20, "LOC"]]
+    }
+  ],
+  [
+    "Σαρδοῦς μήκους ἔχει· ἀφετήριον δ’ εἰς Σαρδὼ καὶ Κύρνον Ποπουλώνιον τῆς Τυρσηνίας, τὸ δὲ δίαρμα σταδίων ˏασ. τῆς Σιλεκίας κατὰ",
+    {
+      "entities": [
+        [55, 80, "LOC"],
+        [112, 120, "LOC"],
+        [48, 54, "LOC"],
+        [55, 66, "LOC"],
+        [71, 80, "LOC"],
+        [0, 7, "LOC"],
+        [38, 43, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Τιμοσθένην  περίμετρος σταδίων ˏδψμ, σχῆμα τρίγωνον σκαληνοειδές,",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "δίαρμα δ’ ἔχει ἀπὸ Πελώρου ἄκρου εἰς Ἰταλίαν σταδίων ιβ πορθμῷ·",
+    {
+      "entities": [[19, 32, "LOC"], [19, 26, "LOC"], [37, 44, "LOC"]]
+    }
+  ],
+  [
+    "πλευρὰ νήσου ἀπὸ Πελώρου εἰς Πάχυνον στάδια ˏατξ, ἀπὸ Παχύνου",
+    {
+      "entities": [[17, 24, "LOC"], [54, 61, "LOC"], [29, 36, "LOC"]]
+    }
+  ],
+  [
+    "εἰς Λιλύβαιον στάδια ˏαχ· κατὰ Τιμοσθένην ἀπὸ Λιλυβαίου εἰς Πελωριάδα στάδια ˏαφ· ἀπὸ Λιλυβαίου διάπλους εἰς Ἀσπίδα τῆς Λιβύης",
+    {
+      "entities": [
+        [86, 95, "LOC"],
+        [60, 69, "LOC"],
+        [4, 13, "LOC"],
+        [109, 115, "LOC"],
+        [120, 126, "LOC"],
+        [46, 55, "LOC"],
+        [109, 126, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἐγγὺς στάδια ˏαφ. Κέρκινα νῆσος μῆκος σ πλάτος στάδια ο, ὅπου",
+    {
+      "entities": [[18, 31, "LOC"], [18, 25, "LOC"]]
+    }
+  ],
+  [
+    "δὲ στενοτάτη στάδια μ. ὑπέρκειται δὲ πόλεως ἠπειρωτικῆς Θεήνης",
+    {
+      "entities": [[44, 62, "LOC"], [56, 62, "LOC"], [37, 62, "LOC"]]
+    }
+  ],
+  [
+    "ἣ κεῖται τῆς μικρᾶς Σύρτιδος ἐπὶ τῆς ἀρχῆς· τῇ δὲ Κερκίνῃ παράκειται",
+    {
+      "entities": [[50, 57, "LOC"], [13, 28, "LOC"]]
+    }
+  ],
+  [
+    "νῆσος Καρκινῖτις γεφύρᾳ ζευχθεῖσα στάδια μῆκος μ,  πλάτος δὲ",
+    {
+      "entities": [[6, 16, "LOC"], [0, 16, "LOC"]]
+    }
+  ],
+  [
+    "στάδια κε.",
+    {
+      "entities": []
+    }
+  ],
+  [
+    " ἀπὸ Κερκίνης ἐπὶ νῆσον Μήνιγγα τὴν Λωτοφαγῖτιν ὁ",
+    {
+      "entities": [[18, 47, "LOC"], [5, 13, "LOC"], [24, 47, "LOC"]]
+    }
+  ],
+  [
+    "διάπλους στάδια χ, ὅσον τῆς μικρᾶς λέγεται Σύρτιδος τὸ στόμα, ἡ δὲ",
+    {
+      "entities": [[24, 60, "LOC"], [24, 51, "LOC"]]
+    }
+  ],
+  [
+    " Μῆνιγξ μῆκος σταδίων χ  πλάτος σταδίων ρπ, μεγάλαι δ’ εἰσὶ περὶ",
+    {
+      "entities": [[1, 7, "LOC"]]
+    }
+  ],
+  [
+    "αὐτὴν παλίρροιαι. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Κεφαλληνία νῆσος τετράπολις μῆκος σταδίων υ.",
+    {
+      "entities": [[0, 10, "LOC"], [0, 27, "LOC"], [0, 16, "LOC"]]
+    }
+  ],
+  [
+    "εἴσι δὲ καὶ  ἐν τῷ Ἀδρίᾳ νῆσοι παρὰ τὴν Ἰλλυρίδα ὧν ἐπισημότεραι",
+    {
+      "entities": [[19, 24, "LOC"], [25, 48, "LOC"], [40, 48, "LOC"]]
+    }
+  ],
+  [
+    "Ἴσση καὶ ἡ μέλαινα Κόρκυρα καὶ Φάρος καὶ Μελίτη, ὧν ἀγνοῶ τὰς",
+    {
+      "entities": [
+        [9, 26, "LOC"],
+        [0, 4, "LOC"],
+        [31, 36, "LOC"],
+        [41, 47, "LOC"]
+      ]
+    }
+  ],
+  [
+    "περιμέτρους. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Πελοποννήσου δὲ ὁ περίπλους καὶ τῶν κόλπων",
+    {
+      "entities": [[36, 42, "LOC"], [0, 12, "LOC"]]
+    }
+  ],
+  [
+    "συμμετρουμένων στάδια ˏεχκζ, χωρὶς δὲ τοῦ κατακολπίσαι ὁ περίπλους",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "στάδια ˏδ,  μῆκος δὲ ἀπὸ Μαλέας ἕως Αἰγίου στάδια ˏαυ. ἔχει δὲ",
+    {
+      "entities": [[25, 31, "LOC"], [36, 42, "LOC"]]
+    }
+  ],
+  [
+    "ὅμοιον σχῆμα φύλλῳ πλατάνου κόλποις μεγάλοις τεμνομένη. συνάγεται",
+    {
+      "entities": [[28, 35, "LOC"]]
+    }
+  ],
+  [
+    "μὲν εἰς  τὸν Κορινθίων ἰσθμὸν πλάτος σταδίων μ ἀπὸ τοῦ Κορινθίου",
+    {
+      "entities": [[13, 29, "LOC"], [55, 64, "LOC"], [55, 71, "LOC"]]
+    }
+  ],
+  [
+    "κόλπου καὶ Σαρωνικοῦ. ἐπὶ τὸ Σκύλλαιον ἄκρον, ἔνθα ἐξ εὐωνύμων",
+    {
+      "entities": [[29, 44, "LOC"], [11, 20, "LOC"], [29, 38, "LOC"]]
+    }
+  ],
+  [
+    "πρόκειται νῆσος  Καλαυρία Ποσειδῶνος ἱερά, ἑξῆς δ’ ὁ Ἀργολικὸς",
+    {
+      "entities": [
+        [53, 69, "LOC"],
+        [10, 25, "LOC"],
+        [53, 62, "LOC"],
+        [17, 25, "LOC"]
+      ]
+    }
+  ],
+  [
+    "κόλπος μέχρι Μαλέας ἄκρου ὃ πολὺ προπέπτωκεν εἰς πέλαγος, εἶτα ὁ",
+    {
+      "entities": [[49, 56, "LOC"], [13, 25, "LOC"], [13, 19, "LOC"]]
+    }
+  ],
+  [
+    "Ἑρμιονικὸς κόλπος, ἑξῆς δὲ μετὰ Μαλέαν Λακωνικὸς κόλπος ἕως",
+    {
+      "entities": [
+        [39, 55, "LOC"],
+        [0, 17, "LOC"],
+        [0, 10, "LOC"],
+        [32, 38, "LOC"],
+        [39, 48, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Ταινάρου ἐκ δεξιῶν, ὃ περιορίζει ἐξ εὐωνύμων τὸν Μεσσηνιακόν",
+    {
+      "entities": [[49, 60, "LOC"], [0, 8, "LOC"], [49, 67, "LOC"]]
+    }
+  ],
+  [
+    "κόλπον οὗ ἐκ δεξιῶν Ἀκρίτας ἄκρα, εἶτα  προπέπτωκεν ἄκρον",
+    {
+      "entities": [[52, 63, "LOC"], [20, 32, "LOC"], [20, 27, "LOC"]]
+    }
+  ],
+  [
+    "Ἰχθὺς καθ’ ὃν κεῖται Ζάκυνθος, καὶ ἕτερον ὁ Χελωνάτας, τελευταῖον",
+    {
+      "entities": [[44, 53, "LOC"], [21, 29, "LOC"], [0, 5, "LOC"]]
+    }
+  ],
+  [
+    "δ’ ἄκρον Ἄραξος ἀντιπρόσωπον Ἀκαρνανίᾳ, μεθ’ ὃν  ὁ Κορινθιακὸς",
+    {
+      "entities": [
+        [29, 38, "LOC"],
+        [9, 15, "LOC"],
+        [51, 62, "LOC"],
+        [3, 15, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἀναχεῖται κόλπος ζ σταδίων συγκλειόμενος στόματι κατὰ τὸ ῾Ρίον",
+    {
+      "entities": [[57, 68, "LOC"], [10, 16, "LOC"], [57, 62, "LOC"]]
+    }
+  ],
+  [
+    "ἄκρον ὅ ἐστι τῆς Πελοποννήσου τὸ δ’ Ἀντίριον Λοκρίδος. ἀπὸ  Ταινάρου ἐπὶ Φυκοῦντα Λιβύης τὸ δίαρμα στάδια ˏγ. ",
+    {
+      "entities": [
+        [45, 53, "LOC"],
+        [82, 88, "LOC"],
+        [73, 81, "LOC"],
+        [36, 44, "LOC"],
+        [17, 29, "LOC"],
+        [60, 68, "LOC"],
+        [36, 53, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Αἴγινα νῆσος",
+    {
+      "entities": [[0, 12, "LOC"], [0, 6, "LOC"]]
+    }
+  ],
+  [
+    "προμήκης στάδια ρξ ἐξ ἐναντίας κεῖται τῆς Ἀττικῆς, Σαλαμὶς  μῆκος",
+    {
+      "entities": [[51, 58, "LOC"], [42, 49, "LOC"]]
+    }
+  ],
+  [
+    "σταδ ο, ἡ Κεία ρκ. τῶν δὲ Κυκλάδων κρατίστη ἐστὶν ἡ Νάξος, διὸ",
+    {
+      "entities": [
+        [26, 43, "LOC"],
+        [10, 14, "LOC"],
+        [26, 34, "LOC"],
+        [52, 57, "LOC"]
+      ]
+    }
+  ],
+  [
+    "μικρὰ λέγεται Σικελία· ἐκ δεξιῶν δ’ αἱ Σποράδες. ἡ δ’ Εὔβοια  γεφύρᾳ",
+    {
+      "entities": [
+        [14, 21, "LOC"],
+        [0, 21, "LOC"],
+        [39, 47, "LOC"],
+        [54, 60, "LOC"]
+      ]
+    }
+  ],
+  [
+    "πρὸς τὴν Βοιωτίαν ἔζευκται, παρατείνει δὲ Βοιωτίδα Φωκίδα Λοκρούς,",
+    {
+      "entities": [
+        [51, 57, "LOC"],
+        [42, 50, "LOC"],
+        [9, 17, "LOC"],
+        [58, 65, "LOC"]
+      ]
+    }
+  ],
+  [
+    "ἐκ δὲ θατέρου ἐπί ποσον καὶ τῇ Ἀττικῇ, ἔστι γὰρ μακρά,  διὸ Μάκρις",
+    {
+      "entities": [[31, 37, "LOC"], [60, 66, "LOC"]]
+    }
+  ],
+  [
+    "ὠνομάσθη, μῆκος σταδίων ˏαψ. ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "ἡ δὲ Κρήτη κατὰ Μαλέαν πλησιάζει",
+    {
+      "entities": [[5, 10, "LOC"], [16, 22, "LOC"]]
+    }
+  ],
+  [
+    "Πελοποννήσῳ, περίμετρος δὲ αὐτῆς σταδίων ˏδρ μῆκος ˏβτ,  κατὰ",
+    {
+      "entities": [[0, 11, "LOC"]]
+    }
+  ],
+  [
+    "Πολὺ γὰρ μεμήκυται. Κύθηρα μέσον Κρήτης καὶ Λακωνικῆς. Κύπρος",
+    {
+      "entities": [
+        [20, 26, "LOC"],
+        [33, 39, "LOC"],
+        [55, 61, "LOC"],
+        [44, 53, "LOC"]
+      ]
+    }
+  ],
+  [
+    "βύρσῃ τὸ σχῆμα ὁμοία, περίπλους στάδια ˏγ(υκ),  μῆκος δὲ ˏατ, ἀπὸ",
+    {
+      "entities": []
+    }
+  ],
+  [
+    "Πάφου εἰς Ἀλεξάνδρειαν δίαρμα βορέου σταδίων ˏγω. Ῥόδου περίμετρος στάδια ˏατ. Κῶ περίμετρος στάδια φν. Σάμος στάδια χλ.  ",
+    {
+      "entities": [
+        [50, 55, "LOC"],
+        [10, 22, "LOC"],
+        [0, 5, "LOC"],
+        [79, 81, "LOC"],
+        [104, 109, "LOC"]
+      ]
+    }
+  ],
+  [
+    "Ἰκαρία δέ ἐστι μακρὰ τραχεῖα, μῆκος σταδίων τ. Χίου περίμετρος",
+    {
+      "entities": [[0, 6, "LOC"], [47, 51, "LOC"]]
+    }
+  ],
+  [
+    "στάδια χξ. Λέσβου περίμετρος στάδ ˏαρ.",
+    {
+      "entities": [[11, 17, "LOC"]]
+    }
+  ]
+]
