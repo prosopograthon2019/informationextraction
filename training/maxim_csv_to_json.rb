@@ -8,8 +8,8 @@ def convert()
   f = File.read(INPUT_CSV)
   CSV.parse(f, :headers => true, :col_sep => "\t").map do |row|
     sentence = row[0]
-    startOffset = row[1]
-    endOffset = row[2]
+    startOffset = row[1].to_i
+    endOffset = row[2].to_i
 
     [ sentence, { 'entities' =>
       [[ startOffset, endOffset, 'LOC' ]]
@@ -21,4 +21,4 @@ f = File.open(OUTPUT_JSON, 'w')
 f.write(JSON.pretty_generate(convert()))
 f.close
 
-print "Done."
+print "Done.\n"
